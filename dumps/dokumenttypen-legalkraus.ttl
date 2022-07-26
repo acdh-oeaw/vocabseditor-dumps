@@ -1,0 +1,985 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ABL> a skos:Concept ;
+    dct:created "2019-05-09T15:19:04.924440+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:05.151149+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ENT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "ablehung" ;
+    skos:prefLabel "Ablehung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.AKS> a skos:Concept ;
+    dct:created "2019-05-09T15:19:12.714824+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:12.904336+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ANK> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "anklageschrift" ;
+    skos:prefLabel "Anklageschrift"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.AKU> a skos:Concept ;
+    dct:created "2019-05-09T15:19:15.930036+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:16.122070+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ANK> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "anklage-kundmachung" ;
+    skos:prefLabel "Anklage-Kundmachung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ANF> a skos:Concept ;
+    dct:created "2019-05-09T15:19:03.130423+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:03.284681+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ERH> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "anfrage" ;
+    skos:prefLabel "Anfrage"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ANT> a skos:Concept ;
+    dct:created "2019-05-09T15:19:15.678228+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:15.862807+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "antrag" ;
+    skos:prefLabel "Antrag"@de ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.APL> a skos:Concept ;
+    dct:created "2019-05-09T15:19:11.575734+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:11.756153+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.MIT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "anklageplädoyer" ;
+    skos:prefLabel "Anklageplädoyer"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.AUG> a skos:Concept ;
+    dct:created "2019-05-09T15:19:08.897077+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:09.046936+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.MIT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "äußerung" ;
+    skos:prefLabel "Äußerung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BAF> a skos:Concept ;
+    dct:created "2019-05-09T15:18:58.770213+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:18:58.923504+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BRF> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "berufungsausführung" ;
+    skos:prefLabel "Berufungsausführung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BAN> a skos:Concept ;
+    dct:created "2019-05-09T15:19:14.870829+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:15.038195+00:00"^^xsd:dateTime ;
+    skos:altLabel "Anmeldung der Berufung"@de ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BRF> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "berufungsanmeldung" ;
+    skos:prefLabel "Berufungsanmeldung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BEB> a skos:Concept ;
+    dct:created "2019-05-09T15:19:05.250223+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:05.468139+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BRF> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "berufungsbescheid" ;
+    skos:prefLabel "Berufungsbescheid"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BEG> a skos:Concept ;
+    dct:created "2019-05-09T15:19:14.464832+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:14.634092+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "begründung" ;
+    skos:prefLabel "Begründung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BEK> a skos:Concept ;
+    dct:created "2019-05-09T15:19:02.475041+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:02.612338+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.MIT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "bekanntgabe" ;
+    skos:prefLabel "Bekanntgabe"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BEN> a skos:Concept ;
+    dct:created "2019-05-09T15:18:59.876157+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:00.011998+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.MIT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "benachrichtigung" ;
+    skos:prefLabel "Benachrichtigung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BER> a skos:Concept ;
+    dct:created "2019-05-09T15:18:57.524284+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:18:57.649225+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "bericht" ;
+    skos:prefLabel "Bericht"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BEW> a skos:Concept ;
+    dct:created "2019-05-09T15:19:01.936522+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:02.088725+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "beweis" ;
+    skos:prefLabel "Beweis"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BKT> a skos:Concept ;
+    dct:created "2019-05-09T15:18:58.556763+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:18:58.697537+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.AKT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "beilagen-akt" ;
+    skos:prefLabel "Beilagen-Akt"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BNT> a skos:Concept ;
+    dct:created "2019-05-09T15:19:16.734102+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:16.906504+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "beweisantrag" ;
+    skos:prefLabel "Beweisantrag"@de ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BRG> a skos:Concept ;
+    dct:created "2019-05-09T15:19:00.948858+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:01.092768+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ENT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "berichtigung" ;
+    skos:prefLabel "Berichtigung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BRS> a skos:Concept ;
+    dct:created "2019-05-09T15:19:01.565775+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:01.724742+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BRF> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "berufungsschrift" ;
+    skos:prefLabel "Berufungsschrift"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BSD> a skos:Concept ;
+    dct:created "2019-05-09T15:19:09.442089+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:09.687964+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ENT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "bescheid" ;
+    skos:prefLabel "Bescheid"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BST> a skos:Concept ;
+    dct:created "2019-05-09T15:18:58.339748+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:18:58.476420+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ENT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "bestätigung" ;
+    skos:prefLabel "Bestätigung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BSW> a skos:Concept ;
+    dct:created "2019-05-09T15:19:03.364435+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:03.511083+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BRF> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "beschwerde" ;
+    skos:prefLabel "Beschwerde"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BTT> a skos:Concept ;
+    dct:created "2019-05-09T15:18:58.125497+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:18:58.255453+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "bitte" ;
+    skos:prefLabel "Bitte"@de ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BWA> a skos:Concept ;
+    dct:created "2019-05-09T15:19:12.106232+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:12.277947+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ENT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "beweisabschluss" ;
+    skos:prefLabel "Beweisabschluss"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.DOS> a skos:Concept ;
+    dct:created "2019-05-09T15:19:08.265379+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:08.433626+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.AKT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "dossier" ;
+    skos:prefLabel "Dossier"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.EGE> a skos:Concept ;
+    dct:created "2019-05-09T15:19:15.280099+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:15.457922+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.MIT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "eingabe" ;
+    skos:prefLabel "Eingabe"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.EIN> a skos:Concept ;
+    dct:created "2019-05-09T15:19:05.932590+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:06.097219+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BRF> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "einspruch" ;
+    skos:prefLabel "Einspruch"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ERA> a skos:Concept ;
+    dct:created "2019-05-09T15:19:09.964296+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:10.124267+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ENT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "ersatzanspruch" ;
+    skos:prefLabel "Ersatzanspruch"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ERG> a skos:Concept ;
+    dct:created "2019-05-09T15:19:08.038347+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:08.193314+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.MIT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "ergänzung" ;
+    skos:prefLabel "Ergänzung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ERK> a skos:Concept ;
+    dct:created "2019-05-09T15:19:09.116029+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:09.276543+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "erklärung" ;
+    skos:prefLabel "Erklärung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ERO> a skos:Concept ;
+    dct:created "2019-05-09T15:19:10.682700+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:10.868431+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.MIT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "erörterung" ;
+    skos:prefLabel "Erörterung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ESU> a skos:Concept ;
+    dct:created "2019-05-09T15:18:58.998285+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:18:59.190139+00:00"^^xsd:dateTime ;
+    skos:altLabel "Gesuch"@de ;
+    skos:editorialNote "Sind \"Ersuchen\" und \"Gesuch\" synonym?"@de ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "ersuchen" ;
+    skos:prefLabel "Ersuchen"@de ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.EXA> a skos:Concept ;
+    dct:created "2019-05-09T15:19:14.114803+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:14.282448+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ENT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "exekutionsausweis" ;
+    skos:prefLabel "Exekutionsausweis"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.EXB> a skos:Concept ;
+    dct:created "2019-05-09T15:19:12.478719+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:12.649090+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ENT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "exekutionsbewilligung" ;
+    skos:prefLabel "Exekutionsbewilligung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.KLB> a skos:Concept ;
+    dct:created "2019-05-09T15:18:57.934152+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:18:58.052121+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.MIT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "klagebeantwortung" ;
+    skos:prefLabel "Klagebeantwortung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.LEU> a skos:Concept ;
+    dct:created "2019-05-09T15:19:02.971022+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:03.055664+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.MIT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "leumundsnote" ;
+    skos:prefLabel "Leumundsnote"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.PAA> a skos:Concept ;
+    dct:created "2019-05-09T15:19:03.825162+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:03.895325+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "parteienaussage" ;
+    skos:prefLabel "Parteienaussage"@de ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.PEB> a skos:Concept ;
+    dct:created "2019-05-09T15:19:02.833360+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:02.892599+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.MIT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "presseberichtigung" ;
+    skos:prefLabel "Presseberichtigung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.PKG> a skos:Concept ;
+    dct:created "2019-05-09T15:19:00.205192+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:00.259262+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.KLG> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "privatanklage" ;
+    skos:prefLabel "Privatanklage"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.PKL> a skos:Concept ;
+    dct:created "2019-05-09T15:19:00.587257+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:00.655829+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "protokoll" ;
+    skos:prefLabel "Protokoll"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.REK> a skos:Concept ;
+    dct:created "2019-05-09T15:19:01.313592+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:01.372147+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BRF> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "rekurs" ;
+    skos:prefLabel "Rekurs"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.RGA> a skos:Concept ;
+    dct:created "2019-05-09T15:19:11.219314+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:11.373190+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.GUT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "gutachten" ;
+    skos:prefLabel "Gutachten"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.RMA> a skos:Concept ;
+    dct:created "2019-05-09T15:19:15.522967+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:15.612583+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.MIT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "rechtsmittelanmeldung" ;
+    skos:prefLabel "Rechtsmittelanmeldung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.RST> a skos:Concept ;
+    dct:created "2019-05-09T15:19:13.225970+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:13.306163+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "richtigstellung" ;
+    skos:prefLabel "Richtigstellung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.RUK> a skos:Concept ;
+    dct:created "2019-05-09T15:18:59.618572+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:18:59.800990+00:00"^^xsd:dateTime ;
+    skos:altLabel "Klagszurücknahme"@de,
+        "Rückziehung"@de ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ANS> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "klagrückziehung" ;
+    skos:prefLabel "Klagrückziehung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.RVA> a skos:Concept ;
+    dct:created "2019-05-09T15:19:15.104637+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:15.210799+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BRF> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "revisionsbeantwortung" ;
+    skos:prefLabel "Revisionsbeantwortung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.RVS> a skos:Concept ;
+    dct:created "2019-05-09T15:19:08.761868+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:08.832294+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BRF> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "revisionsschrift" ;
+    skos:prefLabel "Revisionsschrift"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.SAT> a skos:Concept ;
+    dct:created "2019-05-09T15:19:07.607267+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:07.656978+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ANZ> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "strafantrag" ;
+    skos:prefLabel "Strafantrag"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.SFE> a skos:Concept ;
+    dct:created "2019-05-09T15:19:01.800735+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:01.851033+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ENT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "straferkenntnis" ;
+    skos:prefLabel "Straferkenntnis"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.SRA> a skos:Concept ;
+    dct:created "2019-05-09T15:18:57.405173+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:18:57.451576+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.MIT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "strafregisterauszug" ;
+    skos:prefLabel "Strafregisterauszug"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.STG> a skos:Concept ;
+    dct:created "2019-05-09T15:19:04.525707+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:04.583141+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ANZ> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "strafanzeige" ;
+    skos:prefLabel "Strafanzeige"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.STZ> a skos:Concept ;
+    dct:created "2019-05-09T15:19:06.711777+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:06.774484+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.MIT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "schriftsatz" ;
+    skos:prefLabel "Schriftsatz"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.SVA> a skos:Concept ;
+    dct:created "2019-05-09T15:19:12.348988+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:12.408858+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.AKT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "strafverfahrensakt" ;
+    skos:prefLabel "Strafverfahrensakt"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.SVD> a skos:Concept ;
+    dct:created "2019-05-09T15:19:05.549943+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:05.622641+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ANZ> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "sachverhaltsdarstellung" ;
+    skos:prefLabel "Sachverhaltsdarstellung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.TAT> a skos:Concept ;
+    dct:created "2019-05-09T15:19:06.840027+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:06.888631+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.MIT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "tatbericht" ;
+    skos:prefLabel "Tatbericht"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.TER> a skos:Concept ;
+    dct:created "2019-05-09T15:18:59.332056+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:18:59.369349+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "termin" ;
+    skos:prefLabel "Termin"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.UAS> a skos:Concept ;
+    dct:created "2019-05-09T15:19:09.865408+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:09.899689+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.AKV> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "urteilsabschrift" ;
+    skos:prefLabel "Urteilsabschrift"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.UBS> a skos:Concept ;
+    dct:created "2019-05-09T15:19:01.456643+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:01.491664+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BSS> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "überweisungsbeschluss" ;
+    skos:prefLabel "Überweisungsbeschluss"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.VBG> a skos:Concept ;
+    dct:created "2019-05-09T15:19:00.084685+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:00.126606+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "vereinbarung" ;
+    skos:prefLabel "Vereinbarung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.VEH> a skos:Concept ;
+    dct:created "2019-05-09T15:19:00.446748+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:00.494340+00:00"^^xsd:dateTime ;
+    skos:altLabel "Verhandlungsmitschrift"@de ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ERH> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "verhandlung" ;
+    skos:prefLabel "Verhandlung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.VGN> a skos:Concept ;
+    dct:created "2019-05-09T15:19:13.815367+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:13.853617+00:00"^^xsd:dateTime ;
+    skos:altLabel "Vertagungsgesuch"@de ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "vertagungsansuchen" ;
+    skos:prefLabel "Vertagungsansuchen"@de ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.VLB> a skos:Concept ;
+    dct:created "2019-05-09T15:19:06.174076+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:06.210813+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.MIT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "verlautbarung" ;
+    skos:prefLabel "Verlautbarung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.VOL> a skos:Concept ;
+    dct:created "2019-05-09T15:19:11.823442+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:11.858668+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.MIT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "vollmacht" ;
+    skos:prefLabel "Vollmacht"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.VRF> a skos:Concept ;
+    dct:created "2019-05-09T15:18:57.300170+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:18:57.333247+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ENT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "verfügung" ;
+    skos:prefLabel "Verfügung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.VRN> a skos:Concept ;
+    dct:created "2019-05-09T15:19:04.403246+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:04.441125+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ERH> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "vernehmung" ;
+    skos:prefLabel "Vernehmung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.VRS> a skos:Concept ;
+    dct:created "2019-05-09T15:19:02.164707+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:02.204493+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "verständigung" ;
+    skos:prefLabel "Verständigung"@de ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.VSU> a skos:Concept ;
+    dct:created "2019-05-09T15:19:07.720275+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:07.752246+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.URT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "versäumungsurteil" ;
+    skos:prefLabel "Versäumungsurteil"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.WAH> a skos:Concept ;
+    dct:created "2019-05-09T15:19:09.343366+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:09.376770+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "wahrheitsbeweis" ;
+    skos:prefLabel "Wahrheitsbeweis"@de ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ZAS> a skos:Concept ;
+    dct:created "2019-05-09T15:19:11.461696+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:11.499420+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ERH> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "zeugenaussage" ;
+    skos:prefLabel "Zeugenaussage"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ZLD> a skos:Concept ;
+    dct:created "2019-05-09T15:19:10.951904+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:10.989378+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.LAD> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "zeugenladung" ;
+    skos:prefLabel "Zeugenladung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ZNK> a skos:Concept ;
+    dct:created "2019-05-09T15:18:59.466877+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:18:59.519922+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "zurücknahme-der-klage" ;
+    skos:prefLabel "Zurücknahme der Klage"@de ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ZRW> a skos:Concept ;
+    dct:created "2019-05-09T15:19:13.710849+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:13.746957+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ENT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "zurückweisung" ;
+    skos:prefLabel "Zurückweisung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ZST> a skos:Concept ;
+    dct:created "2019-05-09T15:19:16.632361+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:16.667138+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.MIT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "zustellung" ;
+    skos:prefLabel "Zustellung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.AKT> a skos:Concept ;
+    dct:created "2019-05-09T15:19:06.282206+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:06.434532+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.BKT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "ansichtskarte" ;
+    skos:prefLabel "Ansichtskarte"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.BIL> a skos:Concept ;
+    dct:created "2019-05-09T15:18:57.722062+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:18:57.851109+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "billet" ;
+    skos:prefLabel "Billet"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.BRF> a skos:Concept ;
+    dct:created "2019-05-09T15:18:56.934587+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:18:57.221733+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "brief" ;
+    skos:prefLabel "Brief"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.INK> a skos:Concept ;
+    dct:created "2019-05-09T15:19:11.929587+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:12.038532+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K> ;
+    skos:editorialNote "behelfsmäßige Bezeichnung, für ein Ding, dass man halt intern (in einer Organisation) so herumschickt"@de ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "interne-korrespondenz" ;
+    skos:prefLabel "Interne Korrespondenz"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.KKT> a skos:Concept ;
+    dct:created "2019-05-09T15:19:13.370511+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:13.482266+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.PKT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "korrespondenzkarte" ;
+    skos:prefLabel "Korrespondenzkarte"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.NCH> a skos:Concept ;
+    dct:created "2019-05-09T15:19:02.683229+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:02.758864+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K> ;
+    skos:editorialNote "möglicherweise kann das mit INK Interne Korrespondenz zusammengefasst werden"@de ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "nachricht" ;
+    skos:prefLabel "Nachricht"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.PAK> a skos:Concept ;
+    dct:created "2019-05-09T15:19:14.696814+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:14.803375+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "paket" ;
+    skos:prefLabel "Paket"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.PNK> a skos:Concept ;
+    dct:created "2019-05-09T15:19:10.192728+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:10.268229+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.PKT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "pneumatische-postkarte" ;
+    skos:prefLabel "Pneumatische Postkarte"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.RKT> a skos:Concept ;
+    dct:created "2019-05-09T15:19:13.547474+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:13.641279+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.PKT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "rohrpostkarte" ;
+    skos:prefLabel "Rohrpostkarte"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.TGR> a skos:Concept ;
+    dct:created "2019-05-09T15:19:00.330955+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:00.365542+00:00"^^xsd:dateTime ;
+    skos:altLabel "Radiogramm"@de ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K> ;
+    skos:editorialNote "Sind Telegramm und Radiogramm Synonyme?"@de ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "telegramm" ;
+    skos:prefLabel "Telegramm"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.UMS> a skos:Concept ;
+    dct:created "2019-05-09T15:19:16.380335+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:16.571330+00:00"^^xsd:dateTime ;
+    skos:altLabel "Umschlag"@de ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K> ;
+    skos:editorialNote "zu einem Brief gehörig; eventuell muss das anders in die Hierarchie eingeordnet werden"@de ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "briefumschlag" ;
+    skos:prefLabel "Briefumschlag"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.VKT> a skos:Concept ;
+    dct:created "2019-05-09T15:19:09.753568+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:09.798179+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K> ;
+    skos:editorialNote "Frage, ob man Visitenkarte als Korrespondenzstück fassen kann"@de ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "visitenkarte" ;
+    skos:prefLabel "Visitenkarte"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.WID> a skos:Concept ;
+    dct:created "2019-05-09T15:19:10.336431+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:10.370929+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:notation "widmung" ;
+    skos:prefLabel "Widmung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.AKV> a skos:Concept ;
+    dct:created "2019-05-09T15:19:04.181434+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:04.330329+00:00"^^xsd:dateTime ;
+    skos:altLabel "Aktennotiz"@de ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.UAS> ;
+    skos:notation "aktenvermerk" ;
+    skos:prefLabel "Aktenvermerk"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ANS> a skos:Concept ;
+    dct:created "2019-05-09T15:19:12.977151+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:13.162393+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.RUK> ;
+    skos:notation "ansuchen" ;
+    skos:prefLabel "Ansuchen"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.AUF> a skos:Concept ;
+    dct:created "2019-05-09T15:19:07.815621+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:07.969713+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.LAD> ;
+    skos:notation "auftrag" ;
+    skos:prefLabel "Auftrag"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BSS> a skos:Concept ;
+    dct:created "2019-05-09T15:19:06.957387+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:07.118674+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ENT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.UBS> ;
+    skos:notation "beschluss" ;
+    skos:prefLabel "Beschluss"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.GUT> a skos:Concept ;
+    dct:created "2019-05-09T15:19:13.921592+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:14.049583+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.MIT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.RGA> ;
+    skos:notation "gutachten-1" ;
+    skos:prefLabel "Gutachten"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.KLG> a skos:Concept ;
+    dct:created "2019-05-09T15:19:02.282483+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:02.402699+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ANZ> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.PKG> ;
+    skos:notation "klage" ;
+    skos:prefLabel "Klage"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.LAD> a skos:Concept ;
+    dct:created "2019-05-09T15:19:00.739184+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:00.867444+00:00"^^xsd:dateTime ;
+    skos:altLabel "Vorladung"@de ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.AUF> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ZLD> ;
+    skos:notation "ladung" ;
+    skos:prefLabel "Ladung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.URT> a skos:Concept ;
+    dct:created "2019-05-09T15:19:14.348098+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:14.395345+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ENT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.VSU> ;
+    skos:notation "urteil" ;
+    skos:prefLabel "Urteil"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.BKT> a skos:Concept ;
+    dct:created "2019-05-09T15:19:03.595447+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:03.748703+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.PKT> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.AKT> ;
+    skos:notation "bildpostkarte" ;
+    skos:prefLabel "Bildpostkarte"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D> a skos:Concept ;
+    dct:created "2019-05-09T15:19:10.446181+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:10.616031+00:00"^^xsd:dateTime ;
+    skos:editorialNote "vielleicht präziser bennen: Dokumentsorte im Sinne Textsorte?"@de ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K> ;
+    skos:notation "dokument" ;
+    skos:prefLabel "Dokument"@de ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ANK> a skos:Concept ;
+    dct:created "2019-05-09T15:19:04.661745+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:04.847594+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.AKS>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.AKU> ;
+    skos:notation "anklage" ;
+    skos:prefLabel "Anklage"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.AKT> a skos:Concept ;
+    dct:created "2019-05-09T15:19:07.396518+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:07.540097+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BKT>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.DOS>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.SVA> ;
+    skos:notation "akt" ;
+    skos:prefLabel "Akt"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ANZ> a skos:Concept ;
+    dct:created "2019-05-09T15:19:08.506437+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:08.698227+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.KLG>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.SAT>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.STG>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.SVD> ;
+    skos:notation "anzeige" ;
+    skos:prefLabel "Anzeige"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ERH> a skos:Concept ;
+    dct:created "2019-05-09T15:19:06.500692+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:06.645911+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ANF>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.VEH>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.VRN>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ZAS> ;
+    skos:notation "erhebung" ;
+    skos:prefLabel "Erhebung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.PKT> a skos:Concept ;
+    dct:created "2019-05-09T15:19:01.171610+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:01.235247+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.BKT>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.KKT>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.PNK>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.RKT> ;
+    skos:notation "postkarte" ;
+    skos:prefLabel "Postkarte"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BRF> a skos:Concept ;
+    dct:created "2019-05-09T15:19:07.188221+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:07.330583+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BAF>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BAN>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BEB>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BRS>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BSW>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.EIN>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.REK>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.RVA>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.RVS> ;
+    skos:notation "berufung" ;
+    skos:prefLabel "Berufung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K> a skos:Concept ;
+    dct:created "2019-05-09T15:19:16.189825+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:16.317150+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.BIL>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.BRF>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.INK>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.NCH>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.PAK>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.PKT>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.TGR>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.UMS>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.VKT>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.K.WID> ;
+    skos:notation "korrespondenzstück" ;
+    skos:prefLabel "Korrespondenzstück"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ENT> a skos:Concept ;
+    dct:created "2019-05-09T15:19:05.695067+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:05.860182+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ABL>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BRG>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BSD>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BSS>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BST>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BWA>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ERA>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.EXA>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.EXB>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.SFE>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.URT>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.VRF>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ZRW> ;
+    skos:notation "entscheidung" ;
+    skos:prefLabel "Entscheidung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J> a skos:Concept ;
+    dct:created "2019-05-09T15:19:03.965650+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:04.100282+00:00"^^xsd:dateTime ;
+    skos:altLabel "Juristische Textsorte"@de ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.AKT>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.AKV>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ANK>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ANS>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ANZ>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.AUF>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BEG>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BER>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BEW>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BRF>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ENT>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ERH>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ERK>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.MIT>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.PKL>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.RST>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.TER>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.VBG> ;
+    skos:notation "juristisches-dokument" ;
+    skos:prefLabel "Juristisches Dokument"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.MIT> a skos:Concept ;
+    dct:created "2019-05-09T15:19:11.060060+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:19:11.155913+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.APL>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.AUG>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BEK>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BEN>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.EGE>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ERG>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ERO>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.GUT>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.KLB>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.LEU>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.PEB>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.RMA>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.SRA>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.STZ>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.TAT>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.VLB>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.VOL>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ZST> ;
+    skos:notation "mitteilung" ;
+    skos:prefLabel "Mitteilung"@de .
+
+<https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/> a skos:ConceptScheme ;
+    rdfs:label "Dokumenttypen legalkraus"@de ;
+    dc:title "Dokumenttypen legalkraus"@de,
+        "legalkraus Document types"@en ;
+    dct:created "2019-05-09T15:18:56.696671+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-09T15:20:09.731927+00:00"^^xsd:dateTime ;
+    skos:hasTopConcept <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ANT>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BNT>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.BTT>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ESU>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.PAA>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.VGN>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.VRS>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.WAH>,
+        <https://vocabs.acdh.oeaw.ac.at/legalkraus-doctypes/v1.0/D.J.ZNK> .
+
