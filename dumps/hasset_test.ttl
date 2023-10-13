@@ -1,0 +1,125 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://hasset.org/concept24313> a skos:Concept ;
+    dc:source "dslfasdlkfjslkfjsadlkfasd"@en ;
+    dct:created "2023-08-03T14:47:05.330960+00:00"^^xsd:dateTime ;
+    dct:modified "2023-08-03T14:47:05.502866+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://hasset.org/> ;
+    skos:prefLabel "testit"@en ;
+    skos:topConceptOf <http://hasset.org/> .
+
+<http://hasset.org/concept41> a skos:Concept ;
+    dct:created "2019-04-15T15:39:19.526443+00:00"^^xsd:dateTime ;
+    dct:modified "2019-04-15T15:39:19.615771+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://hasset.org/> ;
+    skos:notation "concept2" ;
+    skos:prefLabel "Concept2"@en ;
+    skos:topConceptOf <http://hasset.org/> .
+
+<http://hasset.org/concept44> a skos:Concept ;
+    dct:created "2019-04-15T15:41:25.146105+00:00"^^xsd:dateTime ;
+    dct:modified "2019-04-15T15:41:25.224714+00:00"^^xsd:dateTime ;
+    skos:broader <http://hasset.org/concept43> ;
+    skos:inScheme <http://hasset.org/> ;
+    skos:notation "child1_1_1_1" ;
+    skos:prefLabel "child1_1_1_1"@en .
+
+<http://hasset.org/concept46> a skos:Concept ;
+    dct:created "2019-04-15T15:41:48.893083+00:00"^^xsd:dateTime ;
+    dct:modified "2019-04-15T15:41:48.976841+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://hasset.org/> ;
+    skos:notation "concept4" ;
+    skos:prefLabel "Concept4"@en ;
+    skos:topConceptOf <http://hasset.org/> .
+
+<http://hasset.org/concept47> a skos:Concept ;
+    dct:created "2019-04-15T15:42:05.886824+00:00"^^xsd:dateTime ;
+    dct:modified "2021-10-04T09:06:35.121662+00:00"^^xsd:dateTime ;
+    skos:broader <http://hasset.org/concept45> ;
+    skos:inScheme <http://hasset.org/> ;
+    skos:notation "concept3_1" ;
+    skos:prefLabel "Concept3_1"@en .
+
+<http://hasset.org/concept48> a skos:Concept ;
+    dc:creator "jb" ;
+    dct:created "2019-04-16T09:08:50.204876+00:00"^^xsd:dateTime ;
+    dct:modified "2019-04-16T09:08:50.330949+00:00"^^xsd:dateTime ;
+    skos:altLabel "uf concept5"@en ;
+    skos:broader <http://hasset.org/concept42> ;
+    skos:inScheme <http://hasset.org/> ;
+    skos:notation "concept5" ;
+    skos:prefLabel "concept5"@en ;
+    skos:scopeNote "added as sibling"@en .
+
+<http://hasset.org/concept37> a skos:Concept ;
+    dct:created "2019-04-15T15:25:08.101336+00:00"^^xsd:dateTime ;
+    dct:modified "2019-04-15T15:25:27.408284+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://hasset.org/> ;
+    skos:narrower <http://hasset.org/concept40> ;
+    skos:notation "c1" ;
+    skos:prefLabel "Concept1"@en ;
+    skos:topConceptOf <http://hasset.org/> .
+
+<http://hasset.org/concept40> a skos:Concept ;
+    dct:created "2019-04-15T15:38:28.394843+00:00"^^xsd:dateTime ;
+    dct:modified "2019-04-15T15:38:58.160106+00:00"^^xsd:dateTime ;
+    skos:broader <http://hasset.org/concept37> ;
+    skos:inScheme <http://hasset.org/> ;
+    skos:narrower <http://hasset.org/concept42> ;
+    skos:notation "child1" ;
+    skos:prefLabel "child1"@en .
+
+<http://hasset.org/concept43> a skos:Concept ;
+    dct:created "2019-04-15T15:40:59.239821+00:00"^^xsd:dateTime ;
+    dct:modified "2019-04-15T15:40:59.335001+00:00"^^xsd:dateTime ;
+    skos:broader <http://hasset.org/concept42> ;
+    skos:inScheme <http://hasset.org/> ;
+    skos:narrower <http://hasset.org/concept44> ;
+    skos:notation "child1_1_1" ;
+    skos:prefLabel "child1_1_1"@en .
+
+<http://hasset.org/concept45> a skos:Concept ;
+    dct:created "2019-04-15T15:41:40.660768+00:00"^^xsd:dateTime ;
+    dct:modified "2019-04-15T15:41:40.789244+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://hasset.org/> ;
+    skos:narrower <http://hasset.org/concept47> ;
+    skos:notation "concept3" ;
+    skos:prefLabel "Concept3"@en ;
+    skos:topConceptOf <http://hasset.org/> .
+
+<http://hasset.org/concept42> a skos:Concept ;
+    dct:created "2019-04-15T15:40:39.996169+00:00"^^xsd:dateTime ;
+    dct:modified "2019-04-15T15:40:40.105611+00:00"^^xsd:dateTime ;
+    skos:broader <http://hasset.org/concept40> ;
+    skos:inScheme <http://hasset.org/> ;
+    skos:narrower <http://hasset.org/concept43>,
+        <http://hasset.org/concept48> ;
+    skos:notation "child1_1" ;
+    skos:prefLabel "child1_1"@en .
+
+<http://hasset.org/> a skos:ConceptScheme ;
+    rdfs:label "HASSET_TEST"@en ;
+    dc:contributor "UK Data Archive" ;
+    dc:creator "UK Data Archive" ;
+    dc:description "Test upload of HASSET to evaluate ACDH tool"@en ;
+    dc:language "en" ;
+    dc:publisher "UK Data Archive" ;
+    dc:source "asdf" ;
+    dc:title "HASSET_TEST"@en ;
+    dct:created "2019-04-15T15:23:33.138832+00:00"^^xsd:dateTime ;
+    dct:issued "2019-04-15"^^xsd:dateTime ;
+    dct:license "Copyright University of Essex. All rights reserved. You may view the thesaurus online. Prior to downloading please accept the terms and conditions of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Licence" ;
+    dct:modified "2023-10-13T10:01:26.220533+00:00"^^xsd:dateTime ;
+    dct:rightsHolder "Darren Bell" ;
+    owl:versionInfo "1" ;
+    skos:hasTopConcept <http://hasset.org/concept24313>,
+        <http://hasset.org/concept37>,
+        <http://hasset.org/concept41>,
+        <http://hasset.org/concept45>,
+        <http://hasset.org/concept46> .
+
