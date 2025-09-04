@@ -41,9 +41,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:43.064062+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:01.624039+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:29.030548+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/theorizing> ;
     skos:definition "Wikidata contributors, \"Q25501084,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q25501084&oldid=1231655399 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -85,9 +88,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:43.514865+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:57.855853+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:27.017000+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/publishing> ;
     skos:definition "subfield of publishing which distributes academic research and scholarship (Wikidata contributors, \"Q5246046,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q5246046&oldid=1266348457 (accessed September 4, 2020)."@en,
         "学術的調査や研究を流通させる、出版の下位領域。"@ja ;
@@ -131,9 +137,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:43.601564+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:59.492220+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:28.065126+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/editing> ;
     skos:definition "arithmetic operation (Wikidata contributors, \"Q32043,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q32043&oldid=1268649023 (accessed September 4, 2020)."@en,
         "数学的演算。"@ja ;
@@ -177,9 +186,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:43.696213+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:53.107546+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:22.659011+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/gathering> ;
     skos:definition "act of collecting together physical or conceptual objects (Wikidata contributors, \"Q23007394,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q23007394&oldid=1210318642 (accessed September 4, 2020)."@en,
         "物理的あるいは概念的対象を共に収集する行為。"@ja ;
@@ -223,9 +235,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:44.059325+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:00.720995+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:28.604370+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/contextualizing> ;
     skos:definition "Wikidata contributors, \"Q2868277,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q2868277&oldid=1256900973 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -267,9 +282,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:44.140744+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:58.448199+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:27.488136+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/annotating> ;
     skos:definition "Wikidata contributors, \"Q98847960,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98847960&oldid=1270669574 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -311,9 +329,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:44.224294+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:58.535796+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:27.548721+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/annotating> ;
     skos:definition "Wikidata contributors, \"Q98847703,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98847703&oldid=1270667708 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -355,9 +376,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:44.315501+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:56.960182+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:26.062618+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/communicating> ;
     skos:definition "Wikidata contributors, \"Q58199,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q58199&oldid=1228360894 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -399,9 +423,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:44.408287+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:54.208147+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:23.627613+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/recording> ;
     skos:definition "mechanical or digital record of a series of audio events (Wikidata contributors, \"Q3302947,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q3302947&oldid=1254901544 (accessed September 4, 2020)."@en,
         "一連の音声イベントについての機械的、またはデジタル的なレコーディング。"@ja ;
@@ -445,9 +472,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:44.498348+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:49.230667+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:19.293438+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/stylisticAnalysis> ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
     skos:note "authorship attribution means the theory and method of determining the author of a given piece of work, e.g. a text by appropriate characterization of stylistic and thematic features."@en,
@@ -491,9 +521,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:44.588811+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:04.531593+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:30.223702+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/preserving> ;
     skos:definition "Wikidata contributors, \"Q98847577,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98847577&oldid=1270666738 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -535,9 +568,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:44.671236+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:57.932092+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:27.076032+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/publishing> ;
     skos:definition "action of writing articles or maintaining a weblog (Wikidata contributors, \"Q21124681,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q21124681&oldid=1262333720 (accessed September 4, 2020)."@en,
         "記事を書く、あるいはweb上の記録を整備する行為。"@ja ;
@@ -581,9 +617,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:44.756358+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:51.736575+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:21.383355+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/discovering> ;
     skos:definition "exploratory use of an information system (Wikidata contributors, \"Q516508,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q516508&oldid=1169408380 (accessed July 30, 2020)."@en,
         "情報システムを用いた検索。"@ja ;
@@ -627,9 +666,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:44.925556+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:53.217822+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:22.771179+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/gathering> ;
     skos:definition "process of listing information resources for inclusion in a database (Wikidata contributors, \"Q3535655,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q3535655&oldid=1256785269 (accessed September 4, 2020)."@en,
         "データベースに情報資源を入力するためにリストする作業手順。"@ja ;
@@ -673,9 +715,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:45.008563+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:49.333607+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:19.382441+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/stylisticAnalysis> ;
     skos:definition "task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense or another) to each other than to those in other groups (clusters) (Wikidata contributors, \"Q622825,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q622825&oldid=1212288392 (accessed July 30, 2020)."@en,
         "一連の対象をグループ化するタスク。その方法は、同じグループにある対象群（クラスタ）が、別のあるグループ（クラスタ）よりも（ある意味で、あるいはもう一つの）に相互により類似している、というものである。"@ja ;
@@ -719,9 +764,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:45.094758+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:00.823630+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:28.647118+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/contextualizing> ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
     skos:note "co-occurrence indicates the semantic proximity or an idiomatic expression of text corpora, based on the statistical-linguistic frequency of occurrence of at least two terms in a certain order."@en,
@@ -765,9 +813,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:45.277270+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:48.105532+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:18.230406+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/relationalAnalysis> ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
     skos:note "collating describes the activity of comparing two or more versions of written or spoken natural language data by aligning them into alphabetical or numerical order to identify similarities and differences."@en,
@@ -811,9 +862,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:45.373182+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:53.347504+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:22.876438+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/gathering> ;
     skos:definition "purposefully gathering items (Wikidata contributors, \"Q208165,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q208165&oldid=1249560517 (accessed September 4, 2020)."@en,
         "アイテムをなんらの目的に沿って集約すること。"@ja ;
@@ -857,9 +911,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:45.464068+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:48.729410+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:18.883293+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/structuralAnalysis> ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
     skos:note "analysis of recurrent co-occurrences of two or more words in language."@en,
@@ -903,9 +960,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:45.759892+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:48.179261+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:18.310648+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/relationalAnalysis> ;
     skos:definition "Wikidata contributors, \"Q98845331,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98845331&oldid=1270639313 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -947,9 +1007,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:45.850278+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:50.773441+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:20.585786+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/converting> ;
     skos:definition "translation of code written in a higher-level programming language to a lower-level form (Wikidata contributors, \"Q56248166,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q56248166&oldid=1230644647 (accessed September 4, 2020)."@en,
         "高水準なプログラミング言語で書かれたコードを低い水準の形式に変換すること。"@ja ;
@@ -993,9 +1056,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:45.935213+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:01.749295+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:29.087570+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/theorizing> ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
     skos:note "conceptualizing means the simplification, specification and formalization of an abstract idea, principle or part of the world in mind, speech, text or even in images. This design activity initially focuses on developing a common understanding of projects, topics, objects and elements and their relationship to one another."@en,
@@ -1039,9 +1105,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:46.017802+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:48.840189+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:18.977525+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/structuralAnalysis> ;
     skos:definition "list of words or terms in a published book (Wikidata contributors, \"Q839018,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q839018&oldid=1228232199 (accessed July 30, 2020)."@en,
         "出版された本における単語や術語のリスト。"@ja ;
@@ -1085,9 +1154,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:46.524933+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:49.416973+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:19.455203+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/stylisticAnalysis> ;
     skos:definition "Wikidata contributors, \"Q614959,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q614959&oldid=1118155497 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -1129,9 +1201,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:46.704784+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:59.645158+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:28.123491+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/editing> ;
     skos:definition "Wikidata contributors, \"Q98848041,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98848041&oldid=1270670016 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -1173,9 +1248,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:46.890592+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:59.738146+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:28.176430+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/editing> ;
     skos:definition "to remove unwanted outer parts of an image (Wikidata contributors, \"Q785116,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q785116&oldid=1110149634 (accessed September 4, 2020)."@en,
         "画像の不要な外側部分を取り除く。"@ja ;
@@ -1219,9 +1297,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:47.166227+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:02.821128+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:29.428526+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/archiving> ;
     skos:definition "Wikidata contributors, \"Q98847455,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98847455&oldid=1270665713 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -1263,9 +1344,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:47.258408+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:01.219828+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:28.848315+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/modeling> ;
     skos:definition "process of linking data objects in distinct models (Wikidata contributors, \"Q2330408,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q2330408&oldid=1185372641 (accessed September 4, 2020)."@en,
         "異なるモデル間のデータオブジェクト同士をリンクする作業手順。"@ja ;
@@ -1309,9 +1393,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:47.348596+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:52.534567+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:22.063511+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/extracting> ;
     skos:definition "process of discovering patterns in large data sets using computational methods at the intersection of statistics, database systems, or machine learning (Wikidata contributors, \"Q172491,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q172491&oldid=1268899513 (accessed September 4, 2020)."@en,
         "大規模なデータセットの中から統計やデータベース、機械学習を組み合わせた計算的手法を用いてパターンを発見する作業手順。"@ja ;
@@ -1355,9 +1442,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:47.531749+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:50.258517+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:20.153559+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/visualAnalysis> ;
     skos:definition "creation and study of the visual representation of data (Wikidata contributors, \"Q6504956,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q6504956&oldid=1258700005 (accessed September 4, 2020)."@en,
         "データの視覚的な表現の作成と研究。"@ja ;
@@ -1401,9 +1491,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:47.622335+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:58.977130+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:27.825971+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/dataCleansing> ;
     skos:definition "the process of finding and resolving defects or problems within a computer program that prevent correct operation of computer software or a system (Wikidata contributors, \"Q845566,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q845566&oldid=1240856516 (accessed July 30, 2020)."@en,
         "コンピュータソフトウェアやシステムの正常な動作を阻む、コンピュータプログラム内部の欠陥や問題を、発見して解決する作業手順。"@ja ;
@@ -1447,9 +1540,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:47.715752+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:01.922577+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:29.141691+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/theorizing> ;
     skos:definition "statement that attaches a meaning to a term (Wikidata contributors, \"Q101072,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q101072&oldid=1267587775 (accessed September 4, 2020)."@en,
         "ある用語に意味を付ける文。"@ja ;
@@ -1493,9 +1589,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:48.229059+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:04.653363+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:30.274169+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/preserving> ;
     skos:definition "text for clarification; one of four rhetorical modes (Wikidata contributors, \"Q1200750,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q1200750&oldid=1266102146 (accessed September 5, 2020)."@en,
         "説明のためのテキスト。四つの修辞法のひとつ。"@ja ;
@@ -1539,9 +1638,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:48.654805+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:54.964852+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:24.370555+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/designing> ;
     skos:definition "Wikidata contributors, \"Q98845265,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98845265&oldid=1270638355 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -1583,9 +1685,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:48.960410+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:03.100619+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:29.533289+00:00"^^xsd:dateTime ;
     skos:altLabel "DOI"@en ;
     skos:broader <https://vocabs.dariah.eu/tadirah/identifying> ;
     skos:definition "character string used as a permanent identifier for a digital object, in a format controlled by the International DOI Foundation (Wikidata contributors, \"Q25670,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q25670&oldid=1280060100 (accessed September 24, 2020)."@en,
@@ -1630,9 +1735,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:49.058813+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:58.017673+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:27.131298+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/publishing> ;
     skos:definition "Wikidata contributors, \"Q1224844,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q1224844&oldid=573797951 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -1674,9 +1782,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:49.143463+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:47.559632+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:17.744979+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/contentAnalysis> ;
     skos:definition "generic term for the analysis of social, language policy or historiographical discourse phenomena (Wikidata contributors, \"Q1129466,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q1129466&oldid=1269534863 (accessed September 4, 2020)."@en,
         "社会、言語政策や歴史学上の言説現象に関わる分析の総称。"@ja ;
@@ -1720,9 +1831,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:49.327903+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:56.476105+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:25.636248+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/collaborating> ;
     skos:definition "Wikidata contributors, \"Q98847226,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98847226&oldid=1270663604 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -1764,9 +1878,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:49.921120+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:49.513604+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:19.532425+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/stylisticAnalysis> ;
     skos:definition "definitions for distance between two objects or events in the universe (Wikidata contributors, \"Q1344778,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q1344778&oldid=1172224550 (accessed July 30, 2020)."@en,
         "世界における二つの物体あるいはイベントの間の距離を示す定義。"@ja ;
@@ -1810,9 +1927,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:50.010213+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:55.107775+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:24.462822+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/designing> ;
     skos:definition "visual artwork in two-dimensional medium (Wikidata contributors, \"Q93184,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q93184&oldid=1269736568 (accessed September 4, 2020)."@en,
         "二次元メディアの視覚芸術作品。"@ja ;
@@ -1856,9 +1976,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:50.093248+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:57.036490+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:26.128638+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/communicating> ;
     skos:definition "Wikidata contributors, \"Q386274,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q386274&oldid=855343099 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -1900,9 +2023,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:50.473263+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:04.762408+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:30.330444+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/preserving> ;
     skos:definition "system that emulates a real system such that the behavior closely resembles the behavior of the real system (Wikidata contributors, \"Q202871,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q202871&oldid=1159572399 (accessed July 30, 2020)."@en,
         "ある現実のシステムを模倣するシステム。それによりそのシステムの動作は模倣されたシステムの動作に極めて類似したものとなる。"@ja ;
@@ -1946,9 +2072,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:50.784832+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:55.496139+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:24.785764+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/programming> ;
     skos:definition "process of creating a message for transmission (Wikidata contributors, \"Q5375490,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q5375490&oldid=1224419731 (accessed July 30, 2020)."@en,
         "伝達のためにあるメッセージを作り出す作業手順。"@ja ;
@@ -1992,9 +2121,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:50.973631+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:02.104523+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:29.198533+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/theorizing> ;
     skos:definition "set of statements constructed to describe a set of facts (Wikidata contributors, \"Q7958,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q7958&oldid=1255429522 (accessed September 4, 2020)."@en,
         "一連の事実を記述するために組み立てられた一連の表現。"@ja ;
@@ -2038,9 +2170,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:51.070463+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:51.849367+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:21.553853+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/discovering> ;
     skos:definition "act of searching or traveling around a terrain for the purpose of discovery (Wikidata contributors, \"Q6502154,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q6502154&oldid=1238428839 (accessed September 4, 2020)."@en,
         "発見のためにある地域の方々を調査もしくは旅行する行為。"@ja ;
@@ -2084,9 +2219,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:51.154047+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:56.798154+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:25.892262+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/commenting> ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
     skos:note "expressing opinion refers to the activity of conveying one's feelings and/or thoughts about something to someone in writing or orally. Hereby existing opinions can be agreed or disagreed with, thus stimulating a discourse."@en,
@@ -2130,9 +2268,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:51.326214+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:03.832615+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:29.885143+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/organizing> ;
     skos:definition "Wikidata contributors, \"Q28195064,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q28195064&oldid=559043572 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -2174,9 +2315,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:51.407475+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:59.810753+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:28.227501+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/editing> ;
     skos:definition "Wikidata contributors, \"Q98848248,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98848248&oldid=1270671201 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -2218,9 +2362,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:51.496114+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:57.506056+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:26.644029+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/crowdsourcing> ;
     skos:definition "the use of game thinking and game mechanics in non-game contexts to engage users in solving problems (Wikidata contributors, \"Q1067402,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q1067402&oldid=1233709490 (accessed July 30, 2020)."@en,
         "ユーザを問題の解決に導くために非ゲーム的な文脈においてゲーム思考やゲーム手順を用いること。"@ja ;
@@ -2264,9 +2411,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:51.690618+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:49.598303+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:19.599725+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/stylisticAnalysis> ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
     skos:note "genre recognition refers to methods and technologies for analyzing pieces of art (e.g. literature, music, film), extracting and classifying features to associate them with different genres automatically or semi-automatically."@en,
@@ -2310,9 +2460,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:51.779377+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:48.511335+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:18.644107+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/spatialAnalysis> ;
     skos:definition "identification of something to locations in physical space (Wikidata contributors, \"Q772007,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q772007&oldid=1240907550 (accessed September 4, 2020)."@en,
         "何かを物理的な空間の位置に合わせて識別すること。"@ja ;
@@ -2356,9 +2509,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:52.069511+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:55.589678+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:24.884372+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/programming> ;
     skos:definition "Wikidata contributors, \"Q98845304,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98845304&oldid=1270638847 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -2400,9 +2556,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:52.158844+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:58.618686+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:27.606430+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/annotating> ;
     skos:definition "Wikidata contributors, \"Q98847905,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98847905&oldid=1270669260 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -2444,9 +2603,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:52.238342+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:03.223319+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:29.587120+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/identifying> ;
     skos:definition "name that identifies either a unique object or a unique class of objects (Wikidata contributors, \"Q853614,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q853614&oldid=1265951822 (accessed September 4, 2020)."@en,
         "特定のオブジェクトもしくはクラスを識別する名前。"@ja ;
@@ -2490,9 +2652,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:52.495424+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:59.070858+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:27.886300+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/dataCleansing> ;
     skos:definition "process of a thing moving from one state to another that is considered to be better, usually through some action intended to bring about that better state (Wikidata contributors, \"Q21255975,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q21255975&oldid=1264546813 (accessed September 4, 2020)."@en,
         "ある状態から、より良いと考えられる他の状態へと移行する作業手順。一般的には、その移行はより良い状態にしようという意図を持った行為によってなされる。"@ja ;
@@ -2536,9 +2701,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:52.656216+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:52.676321+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:22.167363+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/extracting> ;
     skos:definition "Wikidata contributors, \"Q98847165,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98847165&oldid=1270662707 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -2580,9 +2748,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:52.732355+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:51.958688+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:21.626253+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/discovering> ;
     skos:definition "activity of obtaining information resources relevant to an information need from a collection of information resources (Wikidata contributors, \"Q816826,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q816826&oldid=1228359828 (accessed July 30, 2020)."@en,
         "情報資源群の中から、必要とされるある情報に関連した情報コレクションを得る行為。"@ja ;
@@ -2626,9 +2797,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:52.808163+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:57.111210+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:26.190394+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/communicating> ;
     skos:definition "form of communication over the Internet (Wikidata contributors, \"Q58199,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q58199&oldid=1228360894 (accessed September 4, 2020)."@en,
         "インターネット上でのコミュニケーションの一形態。"@ja ;
@@ -2672,9 +2846,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:52.885181+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:00.917669+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:28.692491+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/contextualizing> ;
     skos:definition "Wikidata contributors, \"Q98847635,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98847635&oldid=1270667187 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -2716,9 +2893,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:53.037768+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:52.772587+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:22.268016+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/extracting> ;
     skos:definition "Wikidata contributors, \"Q98847144,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98847144&oldid=1270662396 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -2760,9 +2940,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:53.130719+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:52.889497+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:22.406276+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/extracting> ;
     skos:definition "creation of knowledge from structured and unstructured sources (Wikidata contributors, \"Q1582085,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q1582085&oldid=1235011290 (accessed September 4, 2020)."@en,
         "構造化及び非構造化情報源に基づく知識構築。"@ja ;
@@ -2806,9 +2989,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:53.220925+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:50.864357+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:20.654373+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/converting> ;
     skos:definition "Wikidata contributors, \"Q2554325,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q2554325&oldid=1114054839 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -2850,9 +3036,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:53.292488+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:56.144563+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:25.404348+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/writing> ;
     skos:definition "creation of hand-drawn letters in graphic design and typography (Wikidata contributors, \"Q5538738,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q5538738&oldid=1222349737 (accessed September 4, 2020)."@en,
         "グラフィックデザインやタイポグラフィにおいて、手書き文字フォントを作成すること。"@ja ;
@@ -2896,9 +3085,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:53.362993+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:58.098690+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:27.179418+00:00"^^xsd:dateTime ;
     skos:altLabel "LOD"@en ;
     skos:broader <https://vocabs.dariah.eu/tadirah/publishing> ;
     skos:definition "linked data available under an open license (Wikidata contributors, \"Q18692990,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q18692990&oldid=1229182996 (accessed July 30, 2020)."@en,
@@ -2943,9 +3135,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:53.434284+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:49.690278+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:19.675072+00:00"^^xsd:dateTime ;
     skos:altLabel "ML"@en ;
     skos:broader <https://vocabs.dariah.eu/tadirah/stylisticAnalysis> ;
     skos:definition "branch of statistics and computer science, which studies algorithms and architectures that learn from observed facts (Wikidata contributors, \"Q2539,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q2539&oldid=1228523395 (accessed July 30, 2020)."@en,
@@ -2990,9 +3185,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:53.507169+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:03.941956+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:29.936295+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/organizing> ;
     skos:definition "influence or authority over something; process of directing the operation of a device, system, or process (Wikidata contributors, \"Q29017603,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q29017603&oldid=1238420285 (accessed September 4, 2020)."@en,
         "何らかの事物に対する影響力あるいは権限。デバイスやシステム、情報処理の動作を管理する作業手順。"@ja ;
@@ -3036,9 +3234,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:53.580947+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:50.328952+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:20.234135+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/visualAnalysis> ;
     skos:definition "binary relation which is left-total (defined on all its input set) (Wikidata contributors, \"Q370502,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q370502&oldid=1183603611 (accessed September 4, 2020)."@en,
         "左全域的（入力の集合によって定義される）な二項関係。"@ja ;
@@ -3082,9 +3283,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:53.656200+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:59.930981+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:28.282636+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/editing> ;
     skos:definition "Wikidata contributors, \"Q98848337,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98848337&oldid=1270671768 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -3126,9 +3330,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:53.725231+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:57.176454+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:26.295289+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/communicating> ;
     skos:definition "broadcast medium (Wikidata contributors, \"Q92438,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q92438&oldid=1237465325 (accessed September 4, 2020)."@en,
         "情報拡散媒体。"@ja ;
@@ -3172,9 +3379,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:53.793440+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:04.898050+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:30.396135+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/preserving> ;
     skos:definition "データを選択、使える状態にして、抽出、変形し、一つのストレージから別のストレージに恒久的に移す作業手順。",
         "process of selecting, preparing, extracting, and transforming data and permanently transferring it from one computer storage system to another (Wikidata contributors, \"Q1932543,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q1932543&oldid=1212596075 (accessed July 30, 2020)."@en ;
@@ -3218,9 +3428,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:53.872283+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:50.407335+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:20.313396+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/visualAnalysis> ;
     skos:definition "Wikidata contributors, \"Q98846887,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98846887&oldid=1270658470 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -3262,9 +3475,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:54.016227+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:00.044418+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:28.328734+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/editing> ;
     skos:definition "Wikidata contributors, \"Q98848358,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98848358&oldid=1270671956 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -3306,9 +3522,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:54.086579+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:48.576380+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:18.719918+00:00"^^xsd:dateTime ;
     skos:altLabel "NER"@en ;
     skos:broader <https://vocabs.dariah.eu/tadirah/spatialAnalysis> ;
     skos:definition "extraction of named entity mentions in unstructured text into pre-defined categories (Wikidata contributors, \"Q403574,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q403574&oldid=1232404694 (accessed July 30, 2020)."@en,
@@ -3353,9 +3572,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:54.156023+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:03.402539+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:29.654070+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/identifying> ;
     skos:definition "set of rules for naming variables, types, functions, etc. in programming (Wikidata contributors, \"Q461984,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q461984&oldid=1221175218 (accessed September 4, 2020)."@en,
         "プログラミングにおける変数、型、関数などの一連の命名規則。"@ja ;
@@ -3399,9 +3621,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:54.224729+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:50.943150+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:20.726671+00:00"^^xsd:dateTime ;
     skos:altLabel "NLP"@en ;
     skos:broader <https://vocabs.dariah.eu/tadirah/converting> ;
     skos:definition "field of computer science and linguistics (Wikidata contributors, \"Q30642,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q30642&oldid=1257963465 (accessed September 4, 2020)."@en,
@@ -3446,9 +3671,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:54.298606+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:47.892509+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:18.059200+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/analyzing> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=27&/network-analysis" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -3499,9 +3727,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:54.387694+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:51.354712+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:21.012327+00:00"^^xsd:dateTime ;
     skos:altLabel "OCR"@en ;
     skos:broader <https://vocabs.dariah.eu/tadirah/dataRecognition> ;
     skos:definition "Wikidata contributors, \"Q167555,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q167555&oldid=1257963956 (accessed September 4, 2020)."@en ;
@@ -3544,9 +3775,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:54.482049+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:51.458028+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:21.088734+00:00"^^xsd:dateTime ;
     skos:altLabel "OMR"@en ;
     skos:broader <https://vocabs.dariah.eu/tadirah/dataRecognition> ;
     skos:definition "Wikidata contributors, \"Q1243229,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q1243229&oldid=1126910841 (accessed September 4, 2020)."@en ;
@@ -3589,9 +3823,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:54.643667+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:51.045979+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:20.797360+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/converting> ;
     skos:definition "process of analyzing a string of symbols, either in natural language, computer languages or data structures, conforming to the rules of a formal grammar (Wikidata contributors, \"Q194152,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q194152&oldid=1264510115 (accessed September 4, 2020)."@en,
         "自然言語、コンピュータ言語、データ構造のいずれかの記号の文字列を、形式文法規則に準拠して解析する作業手順。"@ja ;
@@ -3635,9 +3872,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:54.715388+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:48.253986+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:18.394578+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/relationalAnalysis> ;
     skos:definition "branch of machine learning (Wikidata contributors, \"Q378859,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q378859&oldid=1234461159 (accessed July 30, 2020)."@en,
         "機械学習分野。"@ja ;
@@ -3681,9 +3921,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:54.797922+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:03.529433+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:29.708171+00:00"^^xsd:dateTime ;
     skos:altLabel "PID"@en ;
     skos:broader <https://vocabs.dariah.eu/tadirah/identifying> ;
     skos:definition "long-lasting digital name (Wikidata contributors, \"Q420330,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q420330&oldid=1268700365 (accessed September 4, 2020)."@en,
@@ -3728,9 +3971,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:54.871310+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:53.810388+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:23.328874+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/imaging> ;
     skos:definition "art, science, and practice of creating durable images by recording light or other electromagnetic radiation (Wikidata contributors, \"Q11633,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q11633&oldid=1237597469 (accessed July 30, 2020)."@en,
         "光その他の電磁気をレコーディングすることによって、耐久性のある画像を作成するための技術、科学、及び実践。"@ja ;
@@ -3774,9 +4020,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:54.944041+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:50.494841+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:20.388114+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/visualAnalysis> ;
     skos:definition "Wikidata contributors, \"Q98846923,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98846923&oldid=1270658999 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -3818,9 +4067,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:55.008161+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:48.945550+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:19.070897+00:00"^^xsd:dateTime ;
     skos:altLabel "Part-of-Speech-Tagging"@en ;
     skos:broader <https://vocabs.dariah.eu/tadirah/structuralAnalysis> ;
     skos:definition "the process of identifying the grammatical type of words in a text (Wikidata contributors, \"Q1271424,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q1271424&oldid=1167811400 (accessed July 30, 2020)."@en,
@@ -3865,9 +4117,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:55.098834+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:04.133385+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:30.057117+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/sharing> ;
     skos:definition "content on a social media platform, a forum or a blog (Wikidata contributors, \"Q1453674,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q1453674&oldid=1178826153 (accessed September 4, 2020)."@en,
         "ソーシャルメディアプラットフォーム、フォーラム、ブログ上のコンテンツ。"@ja ;
@@ -3911,9 +4166,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:55.164346+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:51.565636+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:21.163320+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/dataRecognition> ;
     skos:definition "Wikidata contributors, \"Q28838080,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q28838080&oldid=941780726 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -3955,9 +4213,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:55.453046+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:05.025555+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:30.475419+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/preserving> ;
     skos:definition "information that supports and documents acts of preservation on digital materials (Wikidata contributors, \"Q7241044,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q7241044&oldid=1202709309 (accessed July 30, 2020)."@en,
         "電子資料を保存する行為を支援し、記録する情報。"@ja ;
@@ -4001,9 +4262,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:55.595429+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:49.770984+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:19.740582+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/stylisticAnalysis> ;
     skos:definition "conversion of a set of observations of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components (Wikidata contributors, \"Q2873,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q2873&oldid=1237203694 (accessed July 30, 2020)."@en,
         "相関する可能性のある変数を観測した集合を、主成分と呼ばれる線形には相関しない変数の値の集合に変換すること。"@ja ;
@@ -4047,9 +4311,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:55.739154+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:55.672438+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:24.970900+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/programming> ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
     skos:note "pseudo coding refers to the basic process of breaking complex problems into modular algorithms and logical procedures described in plain text. It primarily aims at human readability."@en,
@@ -4093,9 +4360,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:55.881658+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:52.087963+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:21.759740+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/discovering> ;
     skos:definition "Wikidata contributors, \"Q98847088,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98847088&oldid=1270661541 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -4137,9 +4407,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:55.954574+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:02.354117+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:29.254796+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/theorizing> ;
     skos:definition "type of thought (Wikidata contributors, \"Q1156402,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q1156402&oldid=1265618386 (accessed September 4, 2020)."@en,
         "思考の一種。"@ja ;
@@ -4183,9 +4456,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:56.187060+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:59.202063+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:27.938873+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/dataCleansing> ;
     skos:definition "dissociation of the original object with its old part; moving an object on distance of disconnect; process of moving, or the fact of being removed (Wikidata contributors, \"Q23009442,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q23009442&oldid=1268618349 (accessed September 4, 2020)."@en,
         "オリジナルの対象物とその古い部分を分離すること。対象物を切断という距離に移すこと。移動という作業手順、もしくは除去されているという事実。"@ja ;
@@ -4229,9 +4505,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:56.250236+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:05.141877+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:30.532357+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/preserving> ;
     skos:definition "sharing information to ensure consistency in computing (Wikidata contributors, \"Q1332873,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q1332873&oldid=1221552165 (accessed July 30, 2020)."@en,
         "コンピュータ処理内で同質性を保証するために情報を共有しておくこと。"@ja ;
@@ -4275,9 +4554,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:56.314386+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:49.886248+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:19.805856+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/stylisticAnalysis> ;
     skos:definition "Wikidata contributors, \"Q98845926,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98845926&oldid=1270647161 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -4319,9 +4601,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:56.380366+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:53.943392+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:23.431467+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/imaging> ;
     skos:definition "process of creating digital images with a scanner (Wikidata contributors, \"Q59155052,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q59155052&oldid=1184040702 (accessed July 30, 2020)."@en,
         "スキャナを用いてデジタル画像を生成する作業手順。"@ja ;
@@ -4365,9 +4650,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:56.442633+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:54.307172+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:23.762690+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/recording> ;
     skos:definition "digital recording of computer screen output (Wikidata contributors, \"Q1365447,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q1365447&oldid=1234996090 (accessed September 4, 2020)."@en,
         "コンピュータのスクリーン出力を電子的にレコーディングすること。"@ja ;
@@ -4411,9 +4699,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:56.505117+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:52.199272+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:21.829998+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/discovering> ;
     skos:definition "search for target data from a set of data (Wikidata contributors, \"Q11540953,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q11540953&oldid=1207018344 (accessed July 30, 2020)."@en,
         "データセットから目的のデータを探すこと。"@ja ;
@@ -4457,9 +4748,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:56.572743+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:58.718849+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:27.668817+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/annotating> ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
     skos:note "segmenting refers to a management process or method of dividing something into smaller homogeneous parts/units to gain better understanding about an object or topic. Segmentation can range from demographic, geographical, ethical, behavioral, visual, linguistic, musical to other areas and can be multi-dimensional."@en,
@@ -4503,9 +4797,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:56.639630+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:01.033972+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:28.739601+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/contextualizing> ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
     skos:note "semantification refers to the process of identifying and associating explicit information with each other by facing challenges such as ambiguity and formalization of implicit knowledge to improve access, automatically data analysis and reuse."@en,
@@ -4549,9 +4846,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:56.716406+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:47.670208+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:17.804485+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/contentAnalysis> ;
     skos:definition "use of natural language processing, text analysis and computational linguistics to identify and extract subjective information in source materials (Wikidata contributors, \"Q2271421,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q2271421&oldid=1170108641 (accessed July 30, 2020)."@en,
         "自然言語処理、テキスト解析、計算言語学を用いて、情報源の主観的な情報を識別、抽出すること。"@ja ;
@@ -4595,9 +4895,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:56.784254+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:48.336989+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:18.475354+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/relationalAnalysis> ;
     skos:definition "process in bioinformatics that aligns (identifies equivalent sites within) molecular sequences (Wikidata contributors, \"Q827246,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q827246&oldid=1228152501 (accessed July 30, 2020)."@en,
         "分子配列中の等価部位を同定するバイオインフォマティクスにおけるプロセス 。"@ja ;
@@ -4641,9 +4944,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:56.925553+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:56.586680+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:25.713840+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/collaborating> ;
     skos:definition "The process of building one's group of personal or business contacts (Wikidata contributors, \"Q19368491,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q19368491&oldid=1132647061 (accessed September 4, 2020)."@en,
         "個人的またはビジネス上の連絡先のグループを構築する作業手順。"@ja ;
@@ -4687,9 +4993,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:57.288714+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:54.604445+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:24.112324+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/transcribing> ;
     skos:definition "Wikidata contributors, \"Q98846987,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98846987&oldid=1270659968 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -4731,9 +5040,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:57.599753+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:49.978544+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:19.904658+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/stylisticAnalysis> ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
     skos:note "stylometry refers to research methods and techniques for analyzing, characterizing and comparing writing styles to determine authorship via statistical probability. A typical stylometric approach is based on the observation the frequency of occurrence of individual words, length of sentences, complexity of sentences, frequent words, spelling errors, etc."@en,
@@ -4777,9 +5089,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:57.669106+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:00.161115+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:28.371325+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/editing> ;
     skos:definition "Wikidata contributors, \"Q98848418,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98848418&oldid=1270672456 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -4821,9 +5136,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:57.733192+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:00.282030+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:28.415856+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/editing> ;
     skos:definition "Wikidata contributors, \"Q98848097,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98848097&oldid=1270670374 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -4865,9 +5183,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:57.796998+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:47.759688+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:17.893856+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/contentAnalysis> ;
     skos:definition "the act of labelling a piece of data or content wth a short string to express some metadata (Wikidata contributors, \"Q43401994,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q43401994&oldid=1198888121 (accessed September 4, 2020)"@en,
         "メタデータを表現するために短い文字列を伴うデータやコンテンツの一つをラベリングする行為。"@ja ;
@@ -4911,9 +5232,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:57.864285+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:58.245097+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:27.288099+00:00"^^xsd:dateTime ;
     skos:altLabel "指導"@ja ;
     skos:broader <https://vocabs.dariah.eu/tadirah/disseminating> ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -4957,9 +5281,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:57.924323+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:50.079816+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:19.989701+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/stylisticAnalysis> ;
     skos:definition "Wikidata contributors, \"Q57771142,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q57771142&oldid=1072020823 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -5001,9 +5328,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:57.985329+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:57.255373+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:26.384530+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/communicating> ;
     skos:definition "act of typing and sending a brief, digital message (Wikidata contributors, \"Q17166101,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q17166101&oldid=1266645836 (accessed September 4, 2020)."@en,
         "短いデジタルメッセージを打ち込み送る行為。"@ja ;
@@ -5047,9 +5377,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:58.115564+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:47.831896+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:17.980613+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/contentAnalysis> ;
     skos:definition "set of techniques in computational linguistics and related fields (Wikidata contributors, \"Q96468792,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q96468792&oldid=1211601100 (accessed July 30, 2020)."@en,
         "コンピュータ言語やそれに関する領域における一連の技術。"@ja ;
@@ -5093,9 +5426,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:58.173073+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:51.145433+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:20.869192+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/converting> ;
     skos:definition "direct digital-to-digital conversion of one encoding to another (Wikidata contributors, \"Q1888734,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q1888734&oldid=1225865439 (accessed September 4, 2020)."@en,
         "一つのエンコーディングから他のエンコーディングへの直接的なデジタル－デジタル変換。"@ja ;
@@ -5139,9 +5475,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:58.302266+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:01.332391+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:28.901060+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/modeling> ;
     skos:definition "process involving change into a qualitatively different form (Wikidata contributors, \"Q65757353,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q65757353&oldid=1268189392 (accessed September 4, 2020)."@en,
         "性質上異なる形式への変更を含む過程。"@ja ;
@@ -5185,9 +5524,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:58.367926+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:55.785266+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:25.091358+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/creating> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=18&/translation" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -5238,9 +5580,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:58.435501+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:49.058964+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:19.140185+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/structuralAnalysis> ;
     skos:definition "Wikidata contributors, \"Q98845582,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98845582&oldid=1270642307 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -5282,9 +5627,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:58.496803+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:58.173963+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:27.235270+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/publishing> ;
     skos:definition "individual post on the Twitter microblogging service (Wikidata contributors, \"Q56119332,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q56119332&oldid=1249804975 (accessed September 4, 2020)."@en,
         "マイクロサービスTwitter上の個々の投稿。"@ja ;
@@ -5328,9 +5676,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:58.558338+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:03.620601+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:29.768171+00:00"^^xsd:dateTime ;
     skos:altLabel "URI"@en ;
     skos:broader <https://vocabs.dariah.eu/tadirah/identifying> ;
     skos:definition "string of characters used to identify a name of a resource on a network such as the internet (Wikidata contributors, \"Q61694,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q61694&oldid=1253478595 (accessed September 4, 2020)."@en,
@@ -5375,9 +5726,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:58.622296+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:04.243680+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:30.106305+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/sharing> ;
     skos:definition "sending of data from a local system to a remote system (Wikidata contributors, \"Q7126699,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q7126699&oldid=1267188395 (accessed September 4, 2020)."@en,
         "ローカル環境からリモート環境にデータを送信すること。"@ja ;
@@ -5421,9 +5775,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:58.683018+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:57.587520+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:26.711408+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/crowdsourcing> ;
     skos:definition "online content created by users (Wikidata contributors, \"Q579716,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q579716&oldid=1244820573 (accessed September 4, 2020)."@en,
         "ユーザによって作成されたオンラインのコンテンツ。"@ja ;
@@ -5467,9 +5824,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:58.744675+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:05.324498+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:30.587496+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/preserving> ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
     skos:note "versioning comprises the management of different but improved and optimized models, releases or parts of a product or work (e.g. document, websites or software) by archiving, referencing and documenting of the changes in these different versions."@en,
@@ -5513,9 +5873,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:58.804354+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:54.392122+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:23.897191+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/recording> ;
     skos:definition "Wikidata contributors, \"Q2778015,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q2778015&oldid=1112440881 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -5557,9 +5920,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:58.862382+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:57.334994+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:26.504464+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/communicating> ;
     skos:definition "type of conference (Wikidata contributors, \"Q238354,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q238354&oldid=1262194128 (accessed September 4, 2020)."@en,
         "会議のタイプ。"@ja ;
@@ -5603,9 +5969,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:58.917869+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:00.389465+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:28.467201+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/editing> ;
     skos:definition "editing live television and video production (Wikidata contributors, \"Q1154312,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q1154312&oldid=1149134104 (accessed September 4, 2020)."@en,
         "生中継のテレビと動画製作の編集。"@ja ;
@@ -5649,9 +6018,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:59.054551+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:58.792789+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:27.718343+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/annotating> ;
     skos:definition "Wikidata contributors, \"Q98847784,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98847784&oldid=1270668347 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -5693,9 +6065,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:59.111551+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:53.455222+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:22.951107+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/gathering> ;
     skos:definition "systematic access of resources across the web (Wikidata contributors, \"Q61466324,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q61466324&oldid=1232626072 (accessed July 30, 2020)."@en,
         "インターネット上でのリソースへの体系的なアクセス。"@ja ;
@@ -5739,9 +6114,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:59.388663+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:55.892766+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:25.183704+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/creating> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=19&/web-development" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -5792,9 +6170,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:59.455793+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:53.564916+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:23.125846+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/gathering> ;
     skos:definition "data scraping used for extracting data from websites (Wikidata contributors, \"Q665452,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q665452&oldid=1203621822 (accessed September 4, 2020)."@en,
         "ウェブサイトからデータを抽出するために使われるデータスクレーピング。"@ja ;
@@ -5838,9 +6219,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:59.516050+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:55.239382+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:24.566496+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/designing> ;
     skos:definition "Wikidata contributors, \"Q98845203,\" Wikidata, https://www.wikidata.org/w/index.php?title=Q98845203&oldid=1270637566 (accessed September 4, 2020)."@en ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -5882,9 +6266,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:43.972225+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:02.688557+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:29.375554+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/storing> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=38&/archiving" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -5934,9 +6321,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:45.551902+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:56.705857+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:25.783524+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/disseminating> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=44&/commenting" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -5988,9 +6378,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:58.233803+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:54.511424+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:24.014672+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/capturing> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=14&/transcription" ;
     skos:definition "transcribing describes  the activity of creating a representation of a manuscript or of audio or video recordings. The representation is generally textual for the verbal aspects of recordings and structured for example by speech turns. It can also contain multimodal information like gestures or events and multimedia information like time synchronization and relation to media files."@en,
@@ -6042,9 +6435,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:59.575710+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:55.995533+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:25.301794+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/creating> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=20&/writing" ;
     skos:definition "writing designates the activity of creating new texts (instead of capturing existing text). Here, it primarily concerns research papers and reports, but may include other textually-oriented objects."@en,
@@ -6096,9 +6492,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:45.181626+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:56.363381+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:25.565587+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/disseminating> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=43&/collaboration" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -6151,9 +6550,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:46.970015+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:57.414081+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:26.579265+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/disseminating> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=46&/crowdsourcing" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -6204,9 +6606,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:52.409881+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:53.676900+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:23.239145+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/capturing> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=12&/imaging" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -6259,9 +6664,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:53.940525+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:01.128916+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:28.787242+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/interpreting> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=35&/modeling" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -6314,9 +6722,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:56.850838+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:04.030617+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:29.990871+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/organizing> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=48&/sharing" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -6369,9 +6780,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:57.211785+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:48.429813+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:18.568129+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/analyzing> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=29&/spatial-analysis" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -6424,9 +6838,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:47.061476+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:58.877828+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:27.769120+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/enriching> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=23&/cleanup" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -6480,9 +6897,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:47.437103+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:51.247085+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:20.937885+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/capturing> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=9&/data-recognition" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -6536,9 +6956,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:48.541043+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:54.840320+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:24.270799+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/creating> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=16&/designing" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -6592,9 +7015,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:50.875716+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:58.314695+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:27.353686+00:00"^^xsd:dateTime ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=21" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
     skos:narrower <https://vocabs.dariah.eu/tadirah/annotating>,
@@ -6648,9 +7074,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:52.958141+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:00.495803+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:28.516102+00:00"^^xsd:dateTime ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=33&/5_interpretation" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
     skos:narrower <https://vocabs.dariah.eu/tadirah/contextualizing>,
@@ -6704,9 +7133,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:54.569223+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:03.725025+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:29.827507+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/storing> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=40&/organizing" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -6758,9 +7190,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:55.664537+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:55.405037+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:24.686136+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/creating> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=17&/programming" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -6814,9 +7249,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:56.040698+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:54.084734+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:23.537909+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/capturing> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=13&/recording" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -6870,9 +7308,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:46.109638+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:47.495119+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:17.681439+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/analyzing> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=26&/content-analysis" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -6927,9 +7368,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:46.428892+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:00.610392+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:28.562104+00:00"^^xsd:dateTime ;
     skos:altLabel "文脈化"@ja ;
     skos:broader <https://vocabs.dariah.eu/tadirah/interpreting> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=34&/contextualizing" ;
@@ -6984,9 +7428,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:51.240091+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:52.387528+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:21.913630+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/capturing> ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
     skos:narrower <https://vocabs.dariah.eu/tadirah/dataMining>,
@@ -7034,9 +7481,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:56.114770+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:48.013582+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:18.160676+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/analyzing> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=28&/relational-analysis" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -7091,9 +7541,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:57.363067+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:02.544445+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:29.314697+00:00"^^xsd:dateTime ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=37&/6_storage" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
     skos:narrower <https://vocabs.dariah.eu/tadirah/archiving>,
@@ -7148,9 +7601,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:57.445208+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:48.649289+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:18.782834+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/analyzing> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=30&/structural-analysis" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -7205,9 +7661,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:58.989938+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:50.158653+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:20.070284+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/analyzing> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=32&/visualization" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -7262,9 +7721,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:43.881696+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:58.383767+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:27.416461+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/enriching> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=22&/annotating" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -7320,9 +7782,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:46.613486+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:50.666245+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:20.524294+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/capturing> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=8&/conversion" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -7378,9 +7843,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:46.795785+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:54.704535+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:24.185460+00:00"^^xsd:dateTime ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=15&/2_creation" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
     skos:narrower <https://vocabs.dariah.eu/tadirah/designing>,
@@ -7436,9 +7904,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:49.229800+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:51.650798+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:21.268245+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/capturing> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=10&/discovering" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -7494,9 +7965,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:51.602877+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:52.996269+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:22.530929+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/capturing> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=11&/gathering" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -7552,9 +8026,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:52.327694+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:02.986232+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:29.479843+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/storing> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=39&/identifying" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -7608,9 +8085,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:55.805421+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:57.656710+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:26.815889+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/disseminating> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=47&/publishing" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -7666,9 +8146,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:58.048471+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:01.488088+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:28.963073+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/interpreting> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=36&/theorizing" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -7724,9 +8207,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:45.661226+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:56.875578+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:25.960090+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/disseminating> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=45&/communicating" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -7783,9 +8269,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:49.412019+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:56.245419+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:25.488477+00:00"^^xsd:dateTime ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=42&/7_dissemination" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
     skos:narrower <https://vocabs.dariah.eu/tadirah/collaborating>,
@@ -7842,9 +8331,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:43.784010+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:47.382971+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:17.585157+00:00"^^xsd:dateTime ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=25" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
     skos:narrower <https://vocabs.dariah.eu/tadirah/contentAnalysis>,
@@ -7902,9 +8394,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:55.521326+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:20:04.375355+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:30.161894+00:00"^^xsd:dateTime ;
     skos:altLabel "保存"@ja ;
     skos:broader <https://vocabs.dariah.eu/tadirah/storing> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=41&/preservation" ;
@@ -7962,9 +8457,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:44.837630+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:50.574500+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:20.454765+00:00"^^xsd:dateTime ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=7" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
     skos:narrower <https://vocabs.dariah.eu/tadirah/converting>,
@@ -8023,9 +8521,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:50.381163+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:59.333287+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:27.992971+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/enriching> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=24&/editing" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -8085,9 +8586,12 @@
         "Vincent Razanajao",
         "Yi Yeong-il",
         "Yoichiro Watanabe" ;
-    dc:creator "Luise Borek, Canan Hastik, Vera Khramova, Jonathan Geiger" ;
+    dc:creator "Canan Hastik",
+        "Jonathan Geiger",
+        "Luise Borek",
+        "Vera Khramova" ;
     dcterms:created "2024-05-22T11:18:57.524632+00:00"^^xsd:dateTime ;
-    dcterms:modified "2025-09-04T13:19:49.146446+00:00"^^xsd:dateTime ;
+    dcterms:modified "2025-09-04T13:49:19.208713+00:00"^^xsd:dateTime ;
     skos:broader <https://vocabs.dariah.eu/tadirah/analyzing> ;
     skos:closeMatch "http://tadirah.dariah.eu/vocab/index.php?tema=31&/stylistic-analysis" ;
     skos:inScheme <https://vocabs.dariah.eu/tadirah/> ;
@@ -8114,7 +8618,41 @@
 
 <https://vocabs.dariah.eu/tadirah/> a skos:ConceptScheme ;
     rdfs:label "TaDiRAH"@en ;
-    dc:contributor "Elisabeth Burr, Francesca Tomasi, Tiziana Mancinelli, Monica Berti, Klaus Thoden, Luise Borek, Christof Schöch, Claudia Müller-Birn, Melanie Siemund, Saskia Lindner, Tamara Butigan, Vanja Savic, Toma Tasovac, Aurélien Berra, Thibault Clérice, Martin Grandjean, Vincent Razanajao, Gimena del Rio Riande, Ryo Mochizuki, Toshiki Koike, Shumpei Katakura, Kiyonori Nagasaki, Ikki Ohmukai, Mariko Kasahara, Shintaro Seki, Masao Oi, Tomoteru Kiyuna, Jun Ogawa, Yoichiro Watanabe, Yi Yeong-il, Hideyuki Ohshima, Nozomi Ohtsuki, So Miyagawa, Natsuko Nakagawa, Akihiro Kameda" ;
+    dc:contributor "Akihiro Kameda",
+        "Aurélien Berra",
+        "Christof Schöch",
+        "Claudia Müller-Birn",
+        "Elisabeth Burr",
+        "Francesca Tomasi",
+        "Gimena del Rio Riande",
+        "Hideyuki Ohshima",
+        "Ikki Ohmukai",
+        "Jun Ogawa",
+        "Kiyonori Nagasaki",
+        "Klaus Thoden",
+        "Luise Borek",
+        "Mariko Kasahara",
+        "Martin Grandjean",
+        "Masao Oi",
+        "Melanie Siemund",
+        "Monica Berti",
+        "Natsuko Nakagawa",
+        "Nozomi Ohtsuki",
+        "Ryo Mochizuki",
+        "Saskia Lindner",
+        "Shintaro Seki",
+        "Shumpei Katakura",
+        "So Miyagawa",
+        "Tamara Butigan",
+        "Thibault Clérice",
+        "Tiziana Mancinelli",
+        "Toma Tasovac",
+        "Tomoteru Kiyuna",
+        "Toshiki Koike",
+        "Vanja Savic",
+        "Vincent Razanajao",
+        "Yi Yeong-il",
+        "Yoichiro Watanabe" ;
     dc:creator "Canan Hastik",
         "Jonathan Geiger",
         "Luise Borek",
@@ -8125,8 +8663,8 @@
     dcterms:created "2024-05-22T11:18:43.001894+00:00"^^xsd:dateTime ;
     dcterms:issued "2020-09-28"^^xsd:date ;
     dcterms:license "https://creativecommons.org/publicdomain/zero/1.0" ;
-    dcterms:modified "2025-09-04T12:47:28.114479+00:00"^^xsd:dateTime ;
-    owl:versionInfo "2.0.2" ;
+    dcterms:modified "2025-09-04T14:42:33.651078+00:00"^^xsd:dateTime ;
+    owl:versionInfo "2.0.3" ;
     skos:hasTopConcept <https://vocabs.dariah.eu/tadirah/analyzing>,
         <https://vocabs.dariah.eu/tadirah/capturing>,
         <https://vocabs.dariah.eu/tadirah/creating>,
