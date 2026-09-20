@@ -1,0 +1,3320 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K007> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            293."""@de ;
+    dcterms:created "2026-09-19T20:11:53.089565+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:53.314487+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Reproduktionstechnik, bei der nur Siebmerkmale und Wasserzeichen
+            des Papiers, nicht aber die Schriftzüge selbst reproduziert werden."""@de ;
+    skos:prefLabel "Betagraphie"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K008> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            293."""@de ;
+    dcterms:created "2026-09-19T20:12:04.100938+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:04.353006+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """gängige Bezeichnung für Schriftträger aus Papier; ein Blatt kann
+            von sehr unterschiedlichem Format sein; es besitzt zwei Seiten, die Vorder- und die
+            Rückseite (auch als recto und verso bezeichnet); ein Handschriftenkonvolut enthält eine
+            bestimmte Anzahl von Blättern, die einseitig oder beidseitig beschriftet sind. Jedem
+            Blatt wird bei der Archivierung eine Folionummer (Foliierung) zugeordnet."""@de ;
+    skos:prefLabel "Blatt"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K010> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:41.647390+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:41.773426+00:00"^^xsd:dateTime ;
+    skos:altLabel "Blattvorderseite"@de ;
+    skos:editorialNote "aus der note zu Blatt"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "recto"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K011> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:08.429244+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:08.493040+00:00"^^xsd:dateTime ;
+    skos:altLabel "Blattrückseite"@de ;
+    skos:editorialNote "aus der note zu Blatt"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "verso"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K012> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:18.362743+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:18.718455+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Blatt"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Handschriftenkonvolut"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K013> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:11.888685+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:12.155164+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Blatt"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Archivierung"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K014> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:01.968526+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:03.407405+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Blatt"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Folionummer"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K015> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:17.085989+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:17.268116+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Papiereinheit im "Rohzustand", d.h. in der Größe, wie das Papier
+            aus der Presse kommt. Erst durch ein- oder mehrmaliges Falten entsteht das Blattformat;
+            ohne Faltung: Planoformat; einmalige Faltung: Folio; zweimalige Faltung: Quart;
+            dreimalige Faltung: Oktav."""@de ;
+    skos:prefLabel "Bogen"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K017> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:05.336935+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:05.551507+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Bogen"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Faltung"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K018> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:57.025362+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:57.159480+00:00"^^xsd:dateTime ;
+    skos:altLabel "Plano-Format"@de ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K016> ;
+    skos:editorialNote "aus der note zu Bogen"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note "(ohne Faltung)"@de ;
+    skos:prefLabel "Plano"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K019> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:28.184161+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:28.399524+00:00"^^xsd:dateTime ;
+    skos:altLabel "Folio-Format"@de ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K016> ;
+    skos:editorialNote "aus der note zu Bogen"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note "(einmalige Faltung)"@de ;
+    skos:prefLabel "Folio"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K020> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:23.596784+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:23.707733+00:00"^^xsd:dateTime ;
+    skos:altLabel "Quart-Format"@de ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K016> ;
+    skos:editorialNote "aus der note zu Bogen"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note "(zweimalige Faltung)"@de ;
+    skos:prefLabel "Quart"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K021> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:48.887874+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:49.012224+00:00"^^xsd:dateTime ;
+    skos:altLabel "Oktav-Format"@de ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K016> ;
+    skos:editorialNote "aus der note zu Bogen"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note "(dreimalige Faltung)"@de ;
+    skos:prefLabel "Oktav"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K025> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            293."""@de ;
+    dcterms:created "2026-09-19T20:12:16.296255+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:16.654325+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """im Laufe des 2. Jahrhunderts v. Chr. erfundener Schriftträger in
+            Form einer Rolle aus Papyrus oder Pergament; nach einer langen Übergangsphase
+            schließlich ganz vom Kodex abgelöst."""@de ;
+    skos:prefLabel "Buchrolle"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K030> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            294."""@de ;
+    dcterms:created "2026-09-19T20:12:04.836967+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:05.265632+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Rekonstruktion und Interpretation literarischer Schreibprozesse
+            anhand von schriftlich überliefertem Entstehungsmaterial."""@de ;
+    skos:prefLabel "Critique génétique"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K032> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:47.487387+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:47.573766+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Daktylogramm"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Schriftstück"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K035> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:16.038212+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:16.250637+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Critique génétique"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Entstehungsmaterial"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K036> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S. 293 u.
+            294."""@de ;
+    dcterms:created "2026-09-19T20:12:04.634042+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:04.809019+00:00"^^xsd:dateTime ;
+    skos:altLabel "Avant-texte"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """chronologisch geordneter Komplex aller schriftlich überlieferten
+            textgenetischen Zeugen eines Werkes bzw. Gesamtheit aller überlieferten und chronologisch geordneten
+                schriftlichen Zeugen zur Genese eines (vollendeten oder unvollendeten)
+                Werkes."""@de ;
+    skos:prefLabel "Dossier génétique"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K038> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            294."""@de ;
+    dcterms:created "2026-09-19T20:12:23.978160+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:24.151128+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """ursprünglich, im Kontext mittelalterlicher Handschriften, eine den
+            Wortlaut treu wiedergebende Umschrift einer Urkunde; im Rahmen der "critique génétique"
+            maschinenschriftliche oder gedruckte Wiedergabe einer Handschrift, die sich strikt an
+            die Topographie des beschriebenen Raumes einer Seite hält: jedes Schriftzeichen
+            erscheint an derselben Stelle der Seite wie auf dem Original. Insbesondere Randnotizen,
+            Streichungen und interlineare Einfügungen müssen als solche auch in der Transkription
+            visuell erkennbar sein."""@de ;
+    skos:prefLabel "Diplomatische Transkription"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K042> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:58.118785+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:58.186044+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Diplomatische Transkription\" u. \"Linearisierte Transkription\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Topographie"@de ;
+    skos:scopeNote "Topographie des beschriebenen Raumes, Topographie der Seite"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K043> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:58.354584+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:58.450597+00:00"^^xsd:dateTime ;
+    skos:editorialNote """aus der note zu Diplomatische
+            Transkription"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Randnotiz"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K045> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:58.210420+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:58.327399+00:00"^^xsd:dateTime ;
+    skos:editorialNote """aus der note zu Diplomatische
+            Transkription"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "interlineare Einfügung"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K046> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            294."""@de ;
+    dcterms:created "2026-09-19T20:11:40.228736+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:40.713968+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Schreibprozeß"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """die Fassung, die der Autor als Vorlage für den Druck bestimmt; je
+            nachdem kann es sich um eigenhändige Reinschriften, um Abschriften von Schreiberhand, um
+            maschinenschriftliche Abschriften oder Computerausdrucke handeln."""@de ;
+    skos:prefLabel "Druckvorlage"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K048> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:15.146333+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:15.349844+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Druckvorlage"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "eigenhändige Reinschrift"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K051> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:13.947550+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:14.130060+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Druckvorlage"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Computerausdruck"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K052> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            294."""@de ;
+    dcterms:created "2026-09-19T20:11:43.817022+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:43.952630+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """persönliche Note von Schriftzügen; am Duktus erkennt man eine
+            Handschrift als von einem bestimmten Autor stammend; je nach physischer und psychischer
+            Verfassung des Schreibers kann der Duktus gewissen Veränderungen
+            unterliegen."""@de ;
+    skos:prefLabel "Duktus"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K054> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:20.421510+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:20.608548+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Duktus"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Handschrift (Schriftzüge) ?"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K055> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            294."""@de ;
+    dcterms:created "2026-09-19T20:11:56.247341+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:56.496237+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K057> ;
+    skos:editorialNote """aus der note zu Graphischer
+            Signifikant"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """metaschriftliches Zeichen, das die Stelle kennzeichnet, an der
+            nachträglich eine sprachliche Einheit eingefügt wird."""@de ;
+    skos:prefLabel "Einfügungszeichen"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K058> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            294."""@de ;
+    dcterms:created "2026-09-19T20:11:57.704294+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:57.850663+00:00"^^xsd:dateTime ;
+    skos:altLabel "ébauche"@fr ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K059> ;
+    skos:editorialNote "Enthalten in der Erläuterung zu \"Schreibvorbereitungsphase\", \"Textgenetische Phase\" u. \"Skizze\"."@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """frühe, grobe, aber schon strukturierte Form des entstehenden
+            Werkes; verwandte textgenetische Stadien: Plan, Skizze, Szenario."""@de ;
+    skos:prefLabel "Entwurf"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K060> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:27.665251+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:27.897489+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K059> ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Entwurf\", \"Produktorientiertes Schreiben\", \"Prozessorientiertes Schreiben\", \"Schreibvorbereitungsphase\" u. \"Textgenetische Phase\"."@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Plan"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K062> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:20.628441+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:20.702836+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K059> ;
+    skos:editorialNote "aus der note zu Entwurf"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Szenario"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K063> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            294."""@de ;
+    dcterms:created "2026-09-19T20:12:12.318482+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:12.592229+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Lektürevorgang, bei dem der Textgenetiker den handschriftlichen
+            Befund der genetischen Dokumente identifiziert und aufschlüsselt; der Schwierigkeitsgrad
+            hängt von der jeweiligen Handschrift als solcher ab (Leserlichkeit bzw. Unleserlichkeit
+            einer Handschrift), von der Anzahl der Streichungen, vom Zustand der Konservierung
+            (Tinte kann leicht verblassen, Bleistift kann abgerieben werden) usw."""@de ;
+    skos:prefLabel "Entzifferung"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K064> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:58.796715+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:59.000023+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Entzifferung"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Textgenetiker"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K065> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:48.398716+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:48.566893+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Entzifferung"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Befund"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K067> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:47.879318+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:48.067422+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Entzifferung"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Zustand der Konservierung"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K070> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:56.874526+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:56.975446+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Entzifferung\", \"Genese\" u. \"Textgenese\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Werk"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K071> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            294 u. 298."""@de ;
+    dcterms:created "2026-09-19T20:11:43.179490+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:43.352698+00:00"^^xsd:dateTime ;
+    skos:altLabel "Substitution"@de ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K379> ;
+    skos:editorialNote "Synonym: Substitution; enthalten in der Erläuterung zu \"Streichung\", \"Substitution\", \"Zwischenzeiliger Raum\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Schreibvorgang, durch den ein Segment durch ein anderes ersetzt
+            wird."""@de ;
+    skos:prefLabel "Ersetzung"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K072> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:50.419404+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:50.556375+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Schreibphase\", \"Um-Schreibung\", \"Lesevariante\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Schreibvorgang"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K074> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            294."""@de ;
+    dcterms:created "2026-09-19T20:11:45.634583+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:45.785546+00:00"^^xsd:dateTime ;
+    skos:altLabel "ajout"@fr ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K379> ;
+    skos:editorialNote "aus der note zu Zwischenzeiliger Raum"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """semantische und syntaktische Bereicherung durch Einfügen
+            ergänzender Wörter, Syntagmen oder Sätze; Beispiel: "seine Hand" wird erweitert zu
+            "seine weiße Hand"."""@de ;
+    skos:prefLabel "Erweiterung"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K075> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            294."""@de ;
+    dcterms:created "2026-09-19T20:12:17.289218+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:17.488694+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Drucktechnik, die die wesentlichen Eigenschaften des Originals
+            wahrt; Ende des 18. Jahrhunderts als "Lithographie" erfunden; im 19. Jahrhundert von der
+            Fotographie, im 20. Jahrhundert von Mikrofilm, Fotokopie und Scanner
+            abgelöst."""@de ;
+    skos:prefLabel "Faksimile"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K076> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:22.137856+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:22.365415+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Faksimile"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Drucktechnik"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K077> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:43.995452+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:44.095924+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Faksimile\" u. \"Linearisierte Transkription\"."@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Original"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K078> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295."""@de ;
+    dcterms:created "2026-09-19T20:11:49.090868+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:49.424981+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Variante\" u. \"Druckvorlage\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """relativ fortgeschrittenes Stadium einer Textgenese; es kann mehrere
+            handschriftliche und / oder mehrere gedruckte Fassungen ein und desselben Textes
+            geben."""@de ;
+    skos:prefLabel "Fassung"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K080> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:45.983537+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:46.077362+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Fassung"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Text"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K081> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295."""@de ;
+    dcterms:created "2026-09-19T20:11:46.856597+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:47.040479+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Vorgang des Foliierens, d.h. jedes Blatt wird oben rechts auf der
+            Vorderseite mit einer Ziffer versehen, durch die es sich im archivalischen Sinn
+            identifizieren läßt."""@de ;
+    skos:prefLabel "Foliierung"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K082> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295."""@de ;
+    dcterms:created "2026-09-19T20:11:53.340820+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:53.505221+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Umformulierung, die nicht von grammatikalischen (morphologischen,
+            syntaktischen oder orthographischen) Regeln abhängt."""@de ;
+    skos:prefLabel "Freie Variante"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K085> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295."""@de ;
+    dcterms:created "2026-09-19T20:12:21.765838+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:21.973608+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Umformulierung, die an grammatikalische Gesetzmäßigkeiten der
+            Sprache gebunden ist (Korrektur) oder das Ergebnis einer freien Variante auf den Rest
+            des Satzes überträgt (In freier Variante wird das Subjekt des Satzes "Das Haus ist
+            klein" erweitert zu "Das Haus und der Garten"; daraus folgt zwangsläufig eine gebundene
+            Variante, nämlich die Korrektur von "ist" zu "sind")."""@de ;
+    skos:prefLabel "Gebundene Variante"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K088> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295."""@de ;
+    dcterms:created "2026-09-19T20:12:26.228478+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:26.447460+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Ausgabe, die in gedruckter Form und in der chronologischen
+            Reihenfolge des Schreibprozesses alle überlieferten textgenetischen Dokumente eines
+            Werkes oder eines Werkfragments vorstellt; Beispiel: die genetische Ausgabe von Un cæur
+            simple von Flaubert, Hrsg. G. Bonaccorso (siehe Bibliogrphie)."""@de ;
+    skos:prefLabel "Genetische Ausgabe"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K090> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295."""@de ;
+    dcterms:created "2026-09-19T20:12:00.233390+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:00.486247+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Basiseinheit des Schreibens; die Gesamtheit aller graphischen
+            Signifikaten umfaßt einerseits die Buchstaben des Alphabets, andererseits
+            Interpunktionszeichen und metaschriftliche Zeichen (Einfügungszeichen, Verweiszeichen,
+            Durchstreichungsstriche, Farbstriche usw.)."""@de ;
+    skos:prefLabel "Graphischer Signifikant"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K091> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:55.536549+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:55.675593+00:00"^^xsd:dateTime ;
+    skos:editorialNote """aus der note zu Graphischer
+            Signifikant"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Interpunktionszeichen"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K094> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:43.401541+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:43.465224+00:00"^^xsd:dateTime ;
+    skos:editorialNote """aus der note zu Graphischer
+            Signifikant"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Verweiszeichen"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K095> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:41.311181+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:41.464480+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Graphischer Signifikant\" u. \"Tilgung\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Durchstreichungsstrich"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K096> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:41.801959+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:42.085531+00:00"^^xsd:dateTime ;
+    skos:editorialNote """aus der note zu Graphischer
+            Signifikant"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Farbstrich"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K097> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295."""@de ;
+    dcterms:created "2026-09-19T20:12:21.115993+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:21.349659+00:00"^^xsd:dateTime ;
+    skos:editorialNote """aus der note zu Diplomatische
+            Transkription?"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note "jedes von Hand geschriebene Dokument."@de ;
+    skos:prefLabel "Handschrift 1"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K098> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295."""@de ;
+    dcterms:created "2026-09-19T20:12:00.747855+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:00.945374+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """persönlich geprägte Form von Schriftzügen ("Er schickte mir einen
+            Brief, geschrieben in seiner unveränderlich schönen Handschrift.")."""@de ;
+    skos:prefLabel "Handschrift 2"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K099> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295."""@de ;
+    dcterms:created "2026-09-19T20:11:47.312356+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:47.464920+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """zusammengeheftete Blätter; dient häufig zur Textausarbeitung
+            (Beispiel: die Hefte von Proust), aber auch zum Festhalten von Gedankenfragmenten
+            (Beispiel: Hefte von Valéry); unterscheidet sich von losen Blättern sowie vom
+            Notizbuch"""@de ;
+    skos:prefLabel "Heft"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K100> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:51.668832+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:51.809712+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Heft"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "loses Blatt"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K102> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295."""@de ;
+    dcterms:created "2026-09-19T20:11:50.608730+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:50.785070+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """ein Netz miteinander verbundener schriftlicher Dokumente;
+            verschiedene textgenetische Dokumente können hypertextartig miteinander vernetzt
+            werden."""@de ;
+    skos:prefLabel "Hypertext"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K104> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295."""@de ;
+    dcterms:created "2026-09-19T20:12:05.776130+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:05.952065+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Unterschrift, durch die der Autor die Druckerlaubnis für seinen
+            Text erteilt; mit dieser Unterschrift verläßt der Text definitiv die Privatsphäre des
+            Schreibens und geht in den Bereich des Öffentlichen ein, den des veröffentlichten
+            Buches."""@de ;
+    skos:prefLabel "Imprimatur"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K105> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295."""@de ;
+    dcterms:created "2026-09-19T20:12:15.815032+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:15.996933+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Anfang eines Textes, aber auch eines Schreibprozesses; beide fallen
+            nicht zwangsläufig zusammen."""@de ;
+    skos:prefLabel "Incipit"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K106> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295 u. 300."""@de ;
+    dcterms:created "2026-09-19T20:12:06.561530+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:06.736601+00:00"^^xsd:dateTime ;
+    skos:altLabel "Zwischenzeiliger Raum"@de ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K208> ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Zwischenzeiliger Raum\" u. \"Lesevariante\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Schreibraum, der zwei beschriebene Zeilen voneinander trennt, aber
+            auch selbst Geschriebenes aufnehmen kann; vornehmlich Erweiterungen oder Ersetzungen für
+            durchgestrichene Einheiten. Synonym: interlinearer Raum."""@de ;
+    skos:prefLabel "Interlinearer Raum"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K108> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            295."""@de ;
+    dcterms:created "2026-09-19T20:12:24.745546+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:24.939863+00:00"^^xsd:dateTime ;
+    skos:altLabel "codex"@de ;
+    skos:editorialNote "aus der note zu Buchrolle"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """handgeschriebenes Buch in seiner frühesten Form; seine Erfindung in
+            den ersten Jahrhunderten n. Chr. kennzeichnet den allmählichen Übergang von der
+            Buchrolle (oder Rolle) zur Form des gebundenen Buches."""@de ;
+    skos:prefLabel "Kodex"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K109> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            296."""@de ;
+    dcterms:created "2026-09-19T20:11:42.479434+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:42.605237+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """zwei textgenetische Stadien oder zwei gedruckte Fassungen eines
+            Textes miteinander vergleichen und deren Unterschiede festhalten."""@de ;
+    skos:prefLabel "Kollationieren"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K111> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            296."""@de ;
+    dcterms:created "2026-09-19T20:11:44.668792+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:44.832106+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note "nicht eindeutig abgesicherte Lesart einer Handschrift."@de ;
+    skos:prefLabel "Konjektur"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K113> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            296."""@de ;
+    dcterms:created "2026-09-19T20:11:57.342346+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:57.475046+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K340> ;
+    skos:editorialNote "aus der note zu Freie Variante"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Um-Schreibung, die sprachliche Fehler (Grammatik, Syntax,
+            Orthographie) und Schreibfehler (Lapsus) beseitigt oder das Ergebnis einer freien
+            Variante an die anderen syntaktischen Elemente weitergibt; --> gebundene
+            Variante."""@de ;
+    skos:prefLabel "Korrektur"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K115> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:19.979961+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:20.155695+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Korrektur"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "sprachlicher Fehler"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K116> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:19.873337+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:19.957402+00:00"^^xsd:dateTime ;
+    skos:altLabel "Lapsus"@de ;
+    skos:editorialNote "aus der note zu Korrektur"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Schreibfehler"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K117> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            296."""@de ;
+    dcterms:created "2026-09-19T20:11:49.791610+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:50.007473+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Textgenetische Phase"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """erste, noch ohne Seitenumbruch gedruckte Form eines Textes, die dem
+            Autor normalerweise zum "Korrekturlesen" vorgelegt wird."""@de ;
+    skos:prefLabel "Korrekturfahne"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K118> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:01.867187+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:01.939733+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Korrekturfahne"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Seitenumbruch"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K119> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:57.517267+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:57.681213+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Korrekturfahne"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Korrekturlesen"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K120> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            296."""@de ;
+    dcterms:created "2026-09-19T20:12:08.869511+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:08.986996+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """der Teil einer kritischen Edition, der die Entstehungsgeschichte
+            und die Überlieferung eines Textes, den Herausgeberbericht, den Variantenapparat sowie
+            Auszüge aus anderen Fassungen eines Textes usw. enthält."""@de ;
+    skos:prefLabel "Kritischer Apparat"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K121> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:20.230447+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:20.393326+00:00"^^xsd:dateTime ;
+    skos:altLabel "Kritische Ausgabe"@de ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Kritischer Apparat\" und \"Variante\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Kritische Edition"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K122> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:54.346988+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:54.523887+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Kritischer Apparat"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Entstehungsgeschichte"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K123> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:19.773080+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:19.849321+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Kritischer Apparat"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Überlieferung"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K124> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:06.008719+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:06.198739+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Kritischer Apparat"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Herausgeberbericht"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K125> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:01.074626+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:01.178602+00:00"^^xsd:dateTime ;
+    skos:editorialNote "Enthalten in der Erläuterung zu \"Kritischer Apparat\" u. \"Variante\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Variantenapparat"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K126> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            296."""@de ;
+    dcterms:created "2026-09-19T20:11:41.141561+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:41.274059+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthlaten in der Erläuterung zu \"Produktorientiertes Schreiben\" u. \"Schreibvorbereitungsphase\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Exzerpte aus gelesenem Quellenmaterial; häufig auf Karteikarten
+            oder in Notizheften überliefert."""@de ;
+    skos:prefLabel "Lesenotizen"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K127> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            296 u. 298."""@de ;
+    dcterms:created "2026-09-19T20:11:45.829756+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:45.943276+00:00"^^xsd:dateTime ;
+    skos:altLabel "Spätkorrektur"@de ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K340> ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Spätkorrektur\", \"Schreibspur\" u. \"Lesevariante\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Umformulierung, die nach einer Unterbrechung des Schreibvorgangs,
+            im allgemeinen nach kritischem Durchlesen, erfolgt; ihr Platz befindet sich im
+            zwischenzeiligen Raum oder am Rand. Eingriff, durch den z.B. ein Wort anläßlich eines kritischen
+            Überlesens gestrichen und ersetzt wird; im Unterschied zu der Sofortkorrektur läßt sich
+            im Fall der Spätvariante nicht klären, zu welchem Zeitpunkt sie erfolgt; "spät" heißt
+            hier nur "nicht sofort"  Synonym: Spätkorrektur; Gegensatz: Schreibvariante,
+            Sofortkorrektur."""@de ;
+    skos:prefLabel "Lesevariante"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K130> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:44.865055+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:44.988744+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Lesevariante\" und \"Umstellung\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Platz"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K136> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            296."""@de ;
+    dcterms:created "2026-09-19T20:11:45.276023+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:45.404340+00:00"^^xsd:dateTime ;
+    skos:altLabel "leçon"@fr ;
+    skos:editorialNote "aus der note zu Konjektur"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Ergebnis des Entzifferns ("es gibt mehrere Lesarten zu dieser
+            Stelle")."""@de ;
+    skos:prefLabel "Lesart"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K137> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            296."""@de ;
+    dcterms:created "2026-09-19T20:11:44.301298+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:44.397012+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """maschinenschriftliche Wiedergabe einer Handschrift, die alle
+            Elemente des Originals überträgt, jedoch ohne sich an die Topographie der Seite zu
+            halten. An deren Stelle tritt häufig eine Chronologisierung der Schreibelemente. Damit
+            ist der erste Schritt in Richtung Interpretation getan, denn die Vertikalität der
+            Umformungsparadigmen wird auf horizontal-syntagmatische Sequenzen übertragen, und dies
+            ist nur möglich, idem räumliche Indizien in zeitliche Kriterien, d.h. in Aussagen über
+            die Genese des Werkes überführt werden."""@de ;
+    skos:prefLabel "Linearisierte Transkription"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K140> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:07.548521+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:07.785385+00:00"^^xsd:dateTime ;
+    skos:editorialNote """aus der note zu Linearisierte
+            Transkription"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Chronologisierung der Schreibelemente"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K141> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:59.492939+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:59.707524+00:00"^^xsd:dateTime ;
+    skos:editorialNote """aus der note zu Linearisierte
+            Transkription"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Interpretation"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K142> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:01.654011+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:01.742433+00:00"^^xsd:dateTime ;
+    skos:editorialNote """aus der note zu Linearisierte
+            Transkription"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Vertikalität der Umformulierungsparadigmen"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K143> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:55.031077+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:55.141287+00:00"^^xsd:dateTime ;
+    skos:editorialNote """aus der note zu Linearisierte
+            Transkription"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Umformulierungsparadigma"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K144> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:14.859354+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:15.061088+00:00"^^xsd:dateTime ;
+    skos:editorialNote """aus der note zu Linearisierte
+            Transkription"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "horizontal-syntagmatische Sequenz"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K145> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:54.552757+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:54.756749+00:00"^^xsd:dateTime ;
+    skos:editorialNote """aus der note zu Linearisierte
+            Transkription"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Indiz"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K146> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:16.930650+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:17.066615+00:00"^^xsd:dateTime ;
+    skos:editorialNote """aus der note zu Linearisierte
+            Transkription"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "räumliches Indiz"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K147> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            296."""@de ;
+    dcterms:created "2026-09-19T20:11:47.609222+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:47.776423+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Vorgang, bei dem die materiellen Merkmale einer Handschrift (oder
+            des Konvoluts von Handschriften) erfaßt werden: Autograph oder Allograph, Kennzeichen
+            der Schrift, Farbe und Format des Schriftträgers, Typ des Papiers und der Wasserzeichen,
+            ein- oder beidseitig beschrieben, Anzahl der Blätter, Beschaffenheit und Farbe des
+            Schreibwerkzeugs (Bleistift, Tinte)."""@de ;
+    skos:prefLabel "Materielle Beschreibung"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K148> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:53.973569+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:54.088369+00:00"^^xsd:dateTime ;
+    skos:editorialNote """aus der note zu Materielle
+            Beschreibung"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "materielles Merkmal"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K149> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:10.548906+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:10.671432+00:00"^^xsd:dateTime ;
+    skos:editorialNote """aus der note zu Materielle
+            Beschreibung"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Konvolut"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K152> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            296."""@de ;
+    dcterms:created "2026-09-19T20:12:19.131602+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:19.318944+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """charakterisiert jedes geschriebene Zeichen, dessen Inhalt sich auf
+            den Schreibakt selbst, die Bedingungen der Textherstellung und die Arbeit des
+            schriftlichen Formulierens bezieht."""@de ;
+    skos:prefLabel "Metaschriftlich"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K153> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:08.604560+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:08.697523+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Metaschriftlich\" und \"Schreibprozeß\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Schreibakt"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K154> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:19.638243+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:19.744668+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Metaschriftlich"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Textherstellung"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K155> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            296."""@de ;
+    dcterms:created "2026-09-19T20:12:22.462680+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:22.581210+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Hilfswissenschaft, die die moderne Handschrift als materiellen und
+            historischen Gegenstand untersucht: Schriftträger, Schreibwerkzeuge und Schreibspuren;
+            Geschichte der Handschriftenbestände, Verzeichnisse und Kataloge."""@de ;
+    skos:prefLabel "Moderne Kodikologie"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K158> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297."""@de ;
+    dcterms:created "2026-09-19T20:12:01.454424+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:01.573330+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Heft"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Schriftträger von kleinem Format und Umfang; dient sowohl zum
+            Festhalten von Gedanken oder biographischen Einzelheiten wie von Notizen zu entstehenden
+            Werken; Beispiel: die Notizbücher von Flaubert."""@de ;
+    skos:prefLabel "Notizbuch"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K159> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:25.073231+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:25.255827+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Notizbuch"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Umfang"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K160> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297."""@de ;
+    dcterms:created "2026-09-19T20:12:03.811140+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:03.914416+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Wissenschaft von den Schriften des Altertums (orientalisch,
+            griechisch, lateinisch) und dem Substrat dieser Schriften; 1708 von Montfaucon
+            geschaffener Begriff."""@de ;
+    skos:prefLabel "Paläographie"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K161> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297."""@de ;
+    dcterms:created "2026-09-19T20:11:48.203668+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:48.358979+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Schriftträger\" u. \"Wasserzeichen\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """auf der Grundlage verschiedener Stoffe hergestellter Schriftträger;
+            an die Stelle des handgeschöpften Papiers ("Büttenpapier") ist in der zweiten Hälfte des
+            19. Jahrhunderts das maschinell hergestellte Papier getreten."""@de ;
+    skos:prefLabel "Papier"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K163> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297."""@de ;
+    dcterms:created "2026-09-19T20:12:08.128062+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:08.261413+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Buchrolle\" u. \"Schriftträger\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """aus dem Mark der Papyrosstaude in Ägypten hergestellter
+            Schriftträger"""@de ;
+    skos:prefLabel "Papyrus"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K165> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297."""@de ;
+    dcterms:created "2026-09-19T20:11:40.787251+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:40.906340+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Reihe von sprachlichen Einheiten, die zu derselben syntaktischen
+            Kategorie gehören und bei Schreibprozessen untereinander durch semantische Beziehungen
+            verbunden sind; ein Substitutionsparadigma stellt eine Reihe von Umformulierungen einer
+            Schreibeinheit dar; ein paradigmatisches Ensemble erscheint vertikal im horizontalen
+            Verlauf der syntagmatischen Linearität eines "avant-texte"."""@de ;
+    skos:prefLabel "Paradigma"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K168> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:23.262778+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:23.357383+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Paradigma"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "syntaktische Kategorie"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K169> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:59.331721+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:59.433266+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Paradigma"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "semantische Beziehung"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K170> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:07.089574+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:07.295057+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Paradigma"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """(ein Substitutionsparadigma stellt eine Reihe von Umformulierungen
+            einer Schreibeinheit dar;)"""@de ;
+    skos:prefLabel "Substitutionsparadigma"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K171> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:06.267910+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:06.373407+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Paradigma"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """ein paradigmatisches Ensemble erscheint vertikal im horizontalen
+            Verlauf der syntagmatischen Linearität eines "avant-texte\""""@de ;
+    skos:prefLabel "paradigmatisches Ensemble"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K172> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297."""@de ;
+    dcterms:created "2026-09-19T20:12:03.946457+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:04.054291+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Buchrolle\" u. \"Schriftträger\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """aus Tierhäuten bestehender Schriftträger, der zuerst im
+            kleinasiatischen Pergamon hergestellt wurde."""@de ;
+    skos:prefLabel "Pergament"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K174> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:21.619029+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:21.725140+00:00"^^xsd:dateTime ;
+    skos:editorialNote """aus der note zu Permutation; könnte auch Segment gemeint
+            sein"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note "(Wörter, Sätze, Abschnitte oder ganze Kapitel)"@de ;
+    skos:prefLabel "Schreibelement"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K175> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297."""@de ;
+    dcterms:created "2026-09-19T20:11:41.496865+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:41.585465+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K176> ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Schreibtyp, der einem vorher aufgestellten Plan konsequent folgt
+            und dessen Ausführung oft mehrere textgenetische Phasen durchläuft (Lesenotizen, Pläne,
+            Listen, Skizzen, Brouillons); Beispiel: Zola."""@de ;
+    skos:prefLabel "Produktorientiertes Schreiben"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K183> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297."""@de ;
+    dcterms:created "2026-09-19T20:11:44.197758+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:44.274580+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K176> ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Schreibtyp ohne Vorbereitungsphase und ohne Plan; der Text entsteht
+            beim Schreiben selbst; Beispiel: Proust."""@de ;
+    skos:prefLabel "Prozeßorientiertes Schreiben"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K185> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:28.054872+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:28.153548+00:00"^^xsd:dateTime ;
+    skos:editorialNote """aus der note zu Prozeßorientiertes
+            Schreiben"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Vorbereitungsphase"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K187> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297."""@de ;
+    dcterms:created "2026-09-19T20:11:54.852564+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:54.983989+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K211> ;
+    skos:editorialNote "aus der note zu Lesevariante"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """bei Büchern: unbeschriebener graphischer Raum, der den
+            beschriebenen Raum der Seite umgibt und damit den sogenannten Satzspiegel festlegt; bei
+            genetischen Dokumenten kann der Rand beschrieben werden: er ist einerseits eine Art
+            Gedankenspeicher, bietet aber auch Raum für metaschriftliche Notizen, Varianten
+            usw."""@de ;
+    skos:prefLabel "Rand"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K188> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:07.347385+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:07.517630+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Rand"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "graphischer Raum"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K191> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:18.249422+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:18.332154+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Rand\" u. \"Um-Schreibung\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Satzspiegel"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K192> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:03.613566+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:03.779683+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Rand\", \"Entzifferung\" u. \"Hypertext\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "genetisches Dokument"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K193> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:53.537625+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:53.699578+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Rand"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "metaschriftliche Notiz"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K194> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297."""@de ;
+    dcterms:created "2026-09-19T20:12:17.681412+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:17.791290+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Textgenetische Phase"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """handschriftliches Stadium eines Textes, das grundsätzlich keine
+            Streichungen mehr enthält und grundsätzlich die letzte Phase der Textgenese darstellt;
+            vom Autor selbst oder einem Sekretär angefertigt."""@de ;
+    skos:prefLabel "Reinschrift"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K196> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297."""@de ;
+    dcterms:created "2026-09-19T20:11:46.732586+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:46.809658+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Duktus"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """derjenige, dessen Hand den Text auf einem Schriftträger fixiert; im
+            weiteren Sinne auch derjenige, der auf der Schreibmaschine oder am Computer Texte
+            niederschreibt; Schreiber ist nicht systematisch synonym mit Autor (siehe
+            Schreiberhand)."""@de ;
+    skos:prefLabel "Schreiber"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K198> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297."""@de ;
+    dcterms:created "2026-09-19T20:12:11.044395+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:11.168227+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """ein Schriftstück ist von "Schreiberhand", wenn es nicht eigenhändig
+            vom Autor geschrieben ist."""@de ;
+    skos:prefLabel "Schreiberhand"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K199> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297."""@de ;
+    dcterms:created "2026-09-19T20:12:16.759089+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:16.892098+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """zeitliche und inhaltliche Einheit eines Schreibvorganges; nach
+            einer mehr oder weniger langen Unterbrechung kann eine neue Schreibphase
+            beginnen."""@de ;
+    skos:prefLabel "Schreibphase"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K201> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:49.487270+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:49.700709+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Schreibphase"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Unterbrechung"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K202> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            298."""@de ;
+    dcterms:created "2026-09-19T20:11:57.220021+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:57.308637+00:00"^^xsd:dateTime ;
+    skos:altLabel "Schreibprozess"@de ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Daktylogramm\", \"Genetische Ausgabe\", \"Wasserzeichen\" u. \"Paradigma\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """bezeichnet den gesamten Schreibakt, von der Aufstellung einer
+            Wortliste bis zur Druckvorlage, Fahnenkorrektur und gegebenfalls Vorbereitung neuer
+            Ausgaben."""@de ;
+    skos:prefLabel "Schreibprozeß"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K204> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:04.503021+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:04.597744+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Schreibprozeß"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Wortliste"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K206> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:11.365936+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:11.605680+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Schreibprozeß"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Fahnenkorrektur"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K207> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:15.551669+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:15.788740+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Schreibprozeß"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Augabe"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K212> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            298."""@de ;
+    dcterms:created "2026-09-19T20:11:43.679547+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:43.780714+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Schriftträger"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """jede Art schriftlicher Zeichen, die auf dem Schriftträger Spuren
+            hinterlassen."""@de ;
+    skos:prefLabel "Schreibspur"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K214> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:10.063889+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:10.313910+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Schreibspur"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "schriftliches Zeichen"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K215> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            298."""@de ;
+    dcterms:created "2026-09-19T20:12:05.587779+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:05.715844+00:00"^^xsd:dateTime ;
+    skos:altLabel "Sofortkorrektur"@de ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K340> ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Lesevariante\", \"Schreibspur\" u. \"Spätkorrektur\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Um-Schreibung, die unmittelbar beim Schreiben erfolgt; Eingriff, durch den z.B. ein Wort sofort gestrichen und rechts
+            daneben durch das entsprechende neue Wort ersetzt wird. Man erkennt
+            sie an der Stelle, an der sie steht: gleich rechts neben der durchgestrichenen
+            Textstelle auf derselben Zeile; Synonym: Sofortkorrektur; Gegenteil: Lesevariante,
+            Spätkorrektur"""@de ;
+    skos:prefLabel "Schreibvariante"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K217> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:18.751589+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:18.875241+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Schreibspur; meint Schreibakt? nein, eher sowas wie Schreibphase?"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Schreiben"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K218> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:10.356412+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:10.512325+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Schreibspur\", \"Schreibraum\", \"Einfügungszeichen\" u. \"Umstellung\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Stelle"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K219> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:48.742416+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:48.830358+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Schreibspur\" u. \"Umstellung\". Zusammenführen mit \"Stelle\"?"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Textstelle"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K223> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            298."""@de ;
+    dcterms:created "2026-09-19T20:12:11.216468+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:11.337265+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """zur Vorbereitung der eigentlichen Textabfassung dienende
+            Arbeitsphase: Lesenotizen, Pläne, Personenlisten, thematische Listen, Skizzen, Entwürfe
+            usw."""@de ;
+    skos:prefLabel "Schreibvorbereitungsphase"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K225> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:12.886954+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:13.136533+00:00"^^xsd:dateTime ;
+    skos:editorialNote """aus der note zu
+            Schreibvorbereitungsphase"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Arbeitsphase"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K228> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:09.457104+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:09.597150+00:00"^^xsd:dateTime ;
+    skos:editorialNote """aus der note zu
+            Schreibvorbereitungsphase"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Personenliste"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K229> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:27.558781+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:27.635381+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K230> ;
+    skos:editorialNote """aus der note zu
+            Schreibvorbereitungsphase"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "thematische Liste"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K234> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:58.488133+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:58.735512+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Schreibwerkzeug"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Arbeitsgerät"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K235> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:11.629994+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:11.839776+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Schreibwerkzeug"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Festschreiben graphischer Zeichen"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K237> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:42.247162+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:42.325726+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K248> ;
+    skos:editorialNote "aus der note zu Schreibwerkzeug"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Schilfrohr"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K238> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:18.928626+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:19.048936+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K248> ;
+    skos:editorialNote "aus der note zu Schreibwerkzeug"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Stichel"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K239> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:45.448783+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:45.609848+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K248> ;
+    skos:editorialNote "aus der note zu Schreibwerkzeug"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Griffel"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K240> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:29.101792+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:29.267978+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K248> ;
+    skos:editorialNote "aus der note zu Schreibwerkzeug"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Gänsekiel"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K241> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:28.951996+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:29.052680+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K248> ;
+    skos:editorialNote "aus der note zu Schreibwerkzeug"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Stahlfeder"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K242> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:23.741473+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:23.938069+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K248> ;
+    skos:editorialNote "aus der note zu Schreibwerkzeug"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Bleistift"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K243> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:50.044721+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:50.220324+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K248> ;
+    skos:editorialNote "aus der note zu Schreibwerkzeug"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Füllfederhalter"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K244> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:47.078630+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:47.210263+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Schreibwerkzeug"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Schreibmaschine"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K245> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:55.893696+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:56.087833+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Schreibwerkzeug"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Computer"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K246> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:13.427488+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:13.550953+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Schreibwerkzeug"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Werkzeug"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K247> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:46.400606+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:46.467949+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K233> ;
+    skos:editorialNote "aus der note zu Schreibwerkzeug"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel """Werkzeug des nicht handschriftlichen
+            Schreibens"""@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K250> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:42.350025+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:42.450865+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Schriftträger"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Material"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K252> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:43.499819+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:43.622628+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K249> ;
+    skos:editorialNote "aus der note zu Schriftträger"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Stein"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K255> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:22.389777+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:22.445415+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K249> ;
+    skos:editorialNote "aus der note zu Schriftträger"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Wachstafel"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K256> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:50.822269+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:50.977713+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K249> ;
+    skos:editorialNote "aus der note zu Schriftträger"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Holztafel"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K257> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:00.550895+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:00.712365+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Schriftträger"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "moderne Handschrift"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K260> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:42.119400+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:42.220154+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Segment\", \"Paradigma\" u. \"Variante\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "sprachliche Einheit"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K261> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:47.240032+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:47.286869+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K259> ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Segment\" u. \"Um-Schreibung\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Wort"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K262> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:51.576885+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:51.645321+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K259> ;
+    skos:editorialNote "aus der note zu Segment"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Wortgruppe"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K263> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:22.015646+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:22.095443+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K259> ;
+    skos:editorialNote "aus der note zu Segment"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Satz"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K264> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:24.406343+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:24.701925+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K259> ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Segment\" u. \"Um-Schreibung\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Abschnitt"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K265> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:19.344155+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:19.463878+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K259> ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Segment\" u. \"Um-Schreibung\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Kapitel"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K266> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            298."""@de ;
+    dcterms:created "2026-09-19T20:12:04.389817+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:04.473281+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Rand"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Papierfläche, auf der man schreibt; jede Seite stellt die Vorder-
+            oder Rückseite eines Blattes dar."""@de ;
+    skos:prefLabel "Seite"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K267> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:06.914023+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:07.052492+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Seite"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Vorderseite"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K268> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:18.093077+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:18.212189+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Seite"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Rückseite"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K269> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            298."""@de ;
+    dcterms:created "2026-09-19T20:12:06.406207+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:06.515480+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K059> ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Schreibvorbereitungsphase\", \"Produktorientiertes Schreiben\", \"Entwurf\" u. \"Textgenetische Phase\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """erste schriftliche Form eines Schreibprojektes; fließender Übergang
+            zum Entwurf, der jedoch schon eine Gesamtstruktur aufweist."""@de ;
+    skos:prefLabel "Skizze"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K270> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:20.725786+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:20.906515+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Skizze"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Form eines Schreibprojektes"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K272> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:54.126966+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:54.316546+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Skizze"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Gesamtstruktur"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K274> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:27.098390+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:27.307402+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Sofortkorrektur"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Eingriff"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K278> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            298."""@de ;
+    dcterms:created "2026-09-19T20:11:56.117875+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:56.203517+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Stammbaum, dessen unterschiedliche Verzweigungen die zeitliche
+            Abfolge, Hierarchie und gegenseitige Abhängigkeit der handschriftlichen und gedruckten
+            Zeugen der Textgenese darstellen."""@de ;
+    skos:prefLabel "Stemma"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K280> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:44.129244+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:44.177070+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Stemma"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "zeitliche Abfolge"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K281> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:14.321724+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:14.522217+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Stemma"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Hierarchie"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K282> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:14.583637+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:14.814901+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Stemma"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "gegenseitige Abhängigkeit"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K283> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:28.668140+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:28.901964+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K369> ;
+    skos:editorialNote "aus der note zu Stemma"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "handschriftlicher Zeuge"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K284> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:23.395223+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:23.577536+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K369> ;
+    skos:editorialNote "aus der note zu Stemma"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "gedruckter Zeuge"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K286> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            298."""@de ;
+    dcterms:created "2026-09-19T20:12:06.795747+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:06.880086+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Reinschrift\", \"Diplomatische Transkription\" und \"Brouillon\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Tilgung eines geschriebenen Segments, entweder um es durch ein
+            anderes Segment zu ersetzen (Ersetzung) oder um es definitiv zu tilgen; -->
+            Tilgung."""@de ;
+    skos:prefLabel "Streichung"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K293> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299."""@de ;
+    dcterms:created "2026-09-19T20:12:19.494245+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:19.604396+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """eine Art Skript, worin der Autor die groben Linien festhält, die
+            dem Schreibprojekt zugrunde gelegt werden; das Szenario hat mit den Didaskalien des
+            Theatertextes den Nominalstil und die rudimentäre Syntax mit Verb im Präsens gemein;
+            Beispiel: "Machärus. Zwingburg, Stadt – Landschaft. – Morgen, es wird Tag, Nebel. König
+            Antipas auf seiner Terrasse" (Flaubert, Szenario zu Hérodias)."""@de ;
+    skos:prefLabel "Szenario"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K294> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:55.184695+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:55.281064+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Szenario"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Skript"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K295> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:17.520350+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:17.645297+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Szenario"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Linie"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K296> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:46.523751+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:46.692657+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Szenario"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Schreibprojekt"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K297> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:24.190899+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:24.371533+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Szenario"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Didaskalie"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K298> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299."""@de ;
+    dcterms:created "2026-09-19T20:12:03.447647+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:03.584804+00:00"^^xsd:dateTime ;
+    skos:altLabel "Phase der eigentlichen Textabfassung"@de,
+        "Textualisierungsphase"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """mit Brouillons und Arbeitshandschriften belegte Phase der
+            Textkonstitution; betrifft das Kernstück der Genese."""@de ;
+    skos:prefLabel "Textabfassungsphase"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K302> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:08.301081+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:08.399431+00:00"^^xsd:dateTime ;
+    skos:editorialNote """aus der note zu Textabfassungs- oder
+            Textualisierungsphase"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Phase der Textkonstitution"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K304> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299."""@de ;
+    dcterms:created "2026-09-19T20:11:53.850541+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:53.922847+00:00"^^xsd:dateTime ;
+    skos:altLabel "Genese"@de ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Stemma\", \"Daktylogramm\", \"Zeuge\" u. \"Textgenetische Phase\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Entstehungsprozeß eines (schriftlichen) Werkes, angefangen von
+            ersten schriftlichen Notizen bis hin zum edierten Text."""@de ;
+    skos:prefLabel "Textgenese"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K305> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:50.267096+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:50.384063+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Textgenese\" u. \"Textgenetische Phase\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Notiz"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K307> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:52.575758+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:52.736008+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Textgenese"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "edierter Text"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K308> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299."""@de ;
+    dcterms:created "2026-09-19T20:11:52.340271+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:52.434580+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Produktorientiertes Schreiben\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """bezeichnet jede einzelne Phase, die eine Textgenese durchläuft:
+            Notizen, Entwürfe, Skizzen, Pläne, Zusammenfassungen, Brouillons, Ausarbeitungen,
+            Reinschriften, Abschriften, Korrekturfahnen."""@de ;
+    skos:prefLabel "Textgenetische Phase"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K314> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:15.394623+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:15.489162+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Textgenetische Phase"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Zusammenfassung"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K316> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:29.325882+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:29.540368+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Textgenetische Phase"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Ausarbeitung"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K318> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:23.004848+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:23.230806+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Textgenetische Phase"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Abschrift"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K320> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299."""@de ;
+    dcterms:created "2026-09-19T20:12:10.703815+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:10.795918+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K379> ;
+    skos:editorialNote "aus der note zu Streichung"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """im allgemeinen durch einen Durchstreichungsstrich gekennzeichneter
+            Vorgang; es gibt aber auch Tilgungen ohne Streichung; z.B. kann bei zwei
+            aufeinanderfolgenden Abschnitten der zweite den ersten tilgen, ohne daß der erste
+            durchgestrichen ist."""@de ;
+    skos:prefLabel "Tilgung"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K323> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:26.496523+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:26.683024+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Tilgung"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Tilgung ohne Streichung"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K325> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299."""@de ;
+    dcterms:created "2026-09-19T20:12:27.933526+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:28.001340+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Um-Schreibung\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Um-Schreibung, Umformulierung; setzt ein schon relativ
+            ausgearbeitetes Stadium der Textentstehung voraus."""@de ;
+    skos:prefLabel "Überarbeitung"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K329> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:55.442627+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:55.512611+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Überarbeitung"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Textentstehung"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K330> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299."""@de ;
+    dcterms:created "2026-09-19T20:11:55.303528+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:55.418206+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Typ der Ersetzung, wobei die ursprüngliche Einheit nicht nurch
+            Darüber- oder Darunterschreiben ersetzt wird, sondern indem man die neue Einheit direkt
+            auf die ursprüngliche schreibt; vor allem üblich bei kurzen Wörtern oder
+            grammatikalischen Korrekturen."""@de ;
+    skos:prefLabel "Überschreibung"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K331> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:56.573106+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:56.822791+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Überschreibung"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Typ der Ersetzung"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K332> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:51.020662+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:51.243777+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Überschreibung"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Einheit"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K333> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:25.678664+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:25.887141+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Überschreibung"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Darüberschreiben"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K334> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:52.110967+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:52.307146+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Überschreibung"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Darunterschreiben"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K335> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:51.993485+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:52.064241+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Überschreibung"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "ursprüngliche Einheit"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K336> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:53.728097+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:53.828466+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Überschreibung"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "neue Einheit"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K337> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:13.595759+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:13.777092+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Überschreibung"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "grammatikalische Korrektur"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K338> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299."""@de ;
+    dcterms:created "2026-09-19T20:11:59.791591+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:00.085613+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K340> ;
+    skos:editorialNote "Unterbegriff zur Um-Schreibung? Enthalten in der Erläuterung zu \"Überarbeitung\", \"Lesevariante\", \"Freie Variante\" u. \"Um-Schreibung\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note "Um-Schreibung"@de ;
+    skos:prefLabel "Umformulierung"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K342> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:28.430567+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:28.612644+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Um-Schreibung"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Geschriebenes"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K347> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:27.337680+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:27.530453+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Um-Schreibung"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "abgeschlossener Text"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K354> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:25.345607+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:25.577637+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Umstellung"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Episode"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K356> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:09.874986+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:09.998915+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Umstellung"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Verschiebung"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K357> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299."""@de ;
+    dcterms:created "2026-09-19T20:12:22.890097+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:22.962562+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """mehrere nebeneinander bestehende Lösungen, von denen keine
+            gestrichen ist."""@de ;
+    skos:prefLabel "Unentschiedene Alternative"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K358> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:07.822806+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:08.046520+00:00"^^xsd:dateTime ;
+    skos:editorialNote """aus der note zu Unentschiedene
+            Alternative"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Lösung"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K359> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299."""@de ;
+    dcterms:created "2026-09-19T20:12:00.979191+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:01.053599+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """sprachliche Einheit, die von einer anderen, früheren oder späteren
+            Form abweicht; unterschiedliche Fassungen eines Textes unterscheiden sich durch ihre
+            Varianten; der Begriff der Variante setzt prinzipiell eine Fassung voraus, auf die sie
+            sich bezieht; in Bezug auf diese Fassung kann in einer kritischen Ausgabe ein
+            Variantenapparat erstellt werden."""@de ;
+    skos:prefLabel "Variante"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K361> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:17.829748+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:18.062768+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Variante"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "frühere Form"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K362> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:09.014243+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:09.141962+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Variante"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "spätere Form"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K366> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299."""@de ;
+    dcterms:created "2026-09-19T20:12:08.522360+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:08.580365+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """ein in das Papier eingeprägtes Muster; "Hauptmarke", meistens in
+            figürlicher Form: Muschel, Krone usw.; kann mit einer Gegenmarke versehen sein; gibt
+            Hinweis zur Herkunft, zum Format, zur Qualität und manchmal zum Zeitpunkt der
+            Papierherstellung; es kann zur Datierung eines Schreibprozesses beitragen."""@de ;
+    skos:prefLabel "Wasserzeichen"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K370> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:26.766380+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:27.047083+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Zeuge"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Dokument"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K374> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:01.776819+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:01.844340+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K189> ;
+    skos:editorialNote "aus der note zu Zwischenzeiliger Raum"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Zeile"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K377> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:12.665976+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:12.836358+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Zwischenzeiliger Raum"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "durchgestrichene Einheit"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K004> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            293."""@de ;
+    dcterms:created "2026-09-19T20:11:42.881408+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:43.122039+00:00"^^xsd:dateTime ;
+    skos:editorialNote "Verweis zu Brouillon; enthalten in Erklärung von Textabfassungs- oder Textualisierungsphase"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """eine Handschrift, die unverkennbar zur Phase der Textausarbeitung,
+            zur Niederschrift des Textes gehört;"""@de ;
+    skos:prefLabel "Arbeitshandschrift"@de ;
+    skos:related <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K022> ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K005> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            293."""@de ;
+    dcterms:created "2026-09-19T20:12:22.617205+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:22.829903+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """letzte vom Autor durchgesehene, korrigierte und autorisierte
+            Fassung, die der kritischen Ausgabe zugrunde gelegt wird."""@de ;
+    skos:prefLabel "Ausgabe letzter Hand"@de ;
+    skos:related <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K068> ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K006> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            293."""@de ;
+    dcterms:created "2026-09-19T20:11:46.108625+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:46.377238+00:00"^^xsd:dateTime ;
+    skos:editorialNote "Gegenteil: Allograph"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """vom Autor eigenhändig geschriebenes Schriftstück; im Gegensatz zu
+            Dokumenten, die von Sekretären, Schreibern oder Kopisten geschrieben sind."""@de ;
+    skos:prefLabel "Autograph"@de ;
+    skos:related <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K003> ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K022> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            293."""@de ;
+    dcterms:created "2026-09-19T20:11:55.697354+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:55.870522+00:00"^^xsd:dateTime ;
+    skos:editorialNote """Verweis zu Arbeitshandschrift; Begriff verwendet in der Erläuterung zu "Produktorientiertes Schreiben", "Textabfassungs- oder
+            Textualisierungsphase" und "Textgenetische Phase\""""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """mit Streichungen, Zusätzen und Um-Schreibungen übersätes
+            Blatt"""@de ;
+    skos:prefLabel "Brouillon"@de ;
+    skos:related <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K004> ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K031> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            294."""@de ;
+    dcterms:created "2026-09-19T20:11:52.476646+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:52.545677+00:00"^^xsd:dateTime ;
+    skos:altLabel "Daktylogramm"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """maschinengeschriebenes Schriftstück; innerhalb einer Textgenese im
+            allgemeinen gegen Ende des Schreibprozesses angesiedelt; kann vom Autor oder einer
+            anderen Person angefertigt sein."""@de ;
+    skos:prefLabel "Typoskript"@de ;
+    skos:related <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K050> ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K040> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:25.957684+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:26.197774+00:00"^^xsd:dateTime ;
+    skos:editorialNote """aus der note zu Diplomatische
+            Transkription"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "maschinenschriftliche Wiedergabe"@de ;
+    skos:related <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K041> ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K041> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:10.831402+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:11.024685+00:00"^^xsd:dateTime ;
+    skos:editorialNote """aus der note zu Diplomatische
+            Transkription"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "gedruckte Wiedergabe"@de ;
+    skos:related <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K040> ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K049> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:13.189723+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:13.380040+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Druckvorlage"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "Abschrift von Schreiberhand"@de ;
+    skos:related <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K003> ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K050> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:09.625340+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:09.815776+00:00"^^xsd:dateTime ;
+    skos:editorialNote "aus der note zu Druckvorlage"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:prefLabel "maschinenschriftliche Abschrift"@de ;
+    skos:related <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K031> ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K057> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:08.719690+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:08.837049+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung von \"Einfügungszeichen\" u. \"Graphischer Signifikant\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:narrower <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K055> ;
+    skos:prefLabel "metaschriftliches Zeichen"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K068> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            294."""@de ;
+    dcterms:created "2026-09-19T20:11:59.071665+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:59.279370+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note "erste gedruckte Fassung eines Werkes."@de ;
+    skos:prefLabel "Erstausgabe"@de ;
+    skos:related <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K005> ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K173> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            297."""@de ;
+    dcterms:created "2026-09-19T20:12:12.177219+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:12.285897+00:00"^^xsd:dateTime ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Vorgang, bei dem die Reihenfolge von zwei Schreibelementen (Wörter,
+            Sätze, Abschnitte oder ganze Kapitel) vertauscht wird; --> Umstellung."""@de ;
+    skos:prefLabel "Permutation"@de ;
+    skos:related <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K350> ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K230> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:13.802493+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:13.927668+00:00"^^xsd:dateTime ;
+    skos:editorialNote """aus der note zu
+            Schreibvorbereitungsphase"""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:narrower <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K229> ;
+    skos:prefLabel "Liste"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K350> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299."""@de ;
+    dcterms:created "2026-09-19T20:12:09.215433+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:09.368456+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K379> ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note """Vorgang, bei dem der Platz einer bereits geschriebenen Textstelle
+            verändert wird, z. B. wenn eine bestimmte Episode an eine andere Stelle des Romantextes
+            verschoben wird."""@de ;
+    skos:prefLabel "Umstellung"@de ;
+    skos:related <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K173> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K003> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            293."""@de ;
+    dcterms:created "2026-09-19T20:11:51.306964+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:51.544295+00:00"^^xsd:dateTime ;
+    skos:editorialNote "Gegenteil: Autograph"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:note "von anderer Hand als der des Autors geschrieben."@de ;
+    skos:prefLabel "Allograph"@de ;
+    skos:related <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K006>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K049> ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K176> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:52.765780+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:52.867938+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Produktorientiertes Schreiben\" u. \"Prozeßorientiertes Schreiben\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:narrower <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K175>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K183> ;
+    skos:prefLabel "Schreibtyp"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K189> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:01.206986+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:01.410553+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K208> ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Rand\" und \"Schreibraum\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:narrower <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K374> ;
+    skos:prefLabel "beschriebener Raum"@de ;
+    skos:related <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K211> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K211> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:21.431966+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:21.574767+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K208> ;
+    skos:editorialNote "aus der note zu Schreibraum"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:narrower <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K187> ;
+    skos:prefLabel "nicht beschriebener Raum"@de ;
+    skos:related <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K189> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K233> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            298."""@de ;
+    dcterms:created "2026-09-19T20:11:51.833710+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:51.928440+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Moderne Kodikologie\" u. \"Materielle Beschreibung\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:narrower <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K247>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K248> ;
+    skos:note """jedes Arbeitsgerät, das zum Festschreiben graphischer Zeichen auf
+            einen bestimmten Schriftträger dient: Schilfrohr, Stichel, Griffel, Gänsekiel,
+            Stahlfeder, Bleistift, Füllfederhalter; Schreibmaschine und Computer sind die
+            "Werkzeuge" des nicht handschriftlichen Schreibens."""@de ;
+    skos:prefLabel "Schreibwerkzeug"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K369> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            300."""@de ;
+    dcterms:created "2026-09-19T20:11:40.949710+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:41.057390+00:00"^^xsd:dateTime ;
+    skos:altLabel "Zeuge"@de,
+        "Zeuge zu Genese eines Textes"@de ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Avant-texte\" u. \"dossier génétique\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:narrower <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K283>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K284> ;
+    skos:note """schriftliches Dokument, das über die Textgenese Auskunft
+            gibt."""@de ;
+    skos:prefLabel "Textzeuge"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K208> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            298."""@de ;
+    dcterms:created "2026-09-19T20:11:48.589452+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:48.707310+00:00"^^xsd:dateTime ;
+    skos:altLabel "Raum"@de ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Zwischenzeiliger Raum\" und \"Interlinearer Raum\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:narrower <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K106>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K189>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K211> ;
+    skos:note """Raum der Seite, auf der sich unbeschriebene Stellen und
+            beschriebene abwechseln; das Verhältnis zwischen beschriebenem und nicht beschriebenem
+            Raum ist im Fall von Buchseiten konstant, im Fall von Handschriftenseiten
+            variabel."""@de ;
+    skos:prefLabel "Schreibraum"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K249> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            298."""@de ;
+    dcterms:created "2026-09-19T20:12:20.941560+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:21.062460+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Schreibwerkzeug\", \"Schreibspur\", \"Schreiber\", \"Papyrus\", \"Papier\", \"Moderne Kodikologie\", \"Materielle Beschreibung\", \"Buchrolle\" u. \"Blatt\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:narrower <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K252>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K255>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K256> ;
+    skos:note """Material, auf das die handgeschriebenen Schreibspuren aufgezeichnet
+            werden: Stein, Papyrus, Pergament, Wachstafel, Holztafel usw.; für die modernen
+            Handschriften: Papier."""@de ;
+    skos:prefLabel "Schriftträger"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K016> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:45.037057+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:45.222117+00:00"^^xsd:dateTime ;
+    skos:altLabel "Blattformat"@de ;
+    skos:editorialNote "aus der note zu Bogen"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:narrower <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K018>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K019>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K020>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K021> ;
+    skos:prefLabel "Format"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K059> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:12:14.187052+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:12:14.284308+00:00"^^xsd:dateTime ;
+    skos:altLabel "Stadium der Textentstehung"@de,
+        "Stadium einer Textgenese"@de ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Entwurf\", \"Überarbeitung\", \"Kollationieren\" u. \"Fassung\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:narrower <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K058>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K060>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K062>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K269> ;
+    skos:prefLabel "textgenetisches Stadium"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K340> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            299."""@de ;
+    dcterms:created "2026-09-19T20:11:52.923144+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:53.037073+00:00"^^xsd:dateTime ;
+    skos:altLabel "réécriture"@fr ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Umformulierung\", \"Überarbeitung\", \"Schreibspur\", \"Korrektur\" u. \"Brouillon\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:narrower <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K113>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K127>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K215>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K338> ;
+    skos:note """jeder Schreibvorgang, der auf bereits Geschriebenes reflexiv und
+            verändernd zurückkommt, gleich ob es sich um Wörter, Sätze, Abschnitte, Kapitel oder
+            abgeschlossene Texte handelt; --> Überarbeitung, Umformulierung"""@de ;
+    skos:prefLabel "Um-Schreibung"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K379> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S. 250."""@de ;
+    dcterms:created "2026-09-19T20:11:42.672524+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:42.846387+00:00"^^xsd:dateTime ;
+    skos:editorialNote "nicht im Glossar enthalten"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:narrower <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K071>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K074>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K320>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K350> ;
+    skos:note "Als Grundformen der Umarbeitung nennt Gréssillon Tilgen, Erweitern, Ersetzen und Umstellen."@de ;
+    skos:prefLabel "Grundform der Umarbeitung"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K259> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.
+            298."""@de ;
+    dcterms:created "2026-09-19T20:11:57.917003+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:58.065603+00:00"^^xsd:dateTime ;
+    skos:editorialNote "enthalten in der Erläuterung zu \"Ersetzung\", \"Substitution\" u. \"Streichung\""@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:narrower <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K261>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K262>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K263>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K264>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K265> ;
+    skos:note """sprachliche Einheit unterschiedlicher Länge: Wort, Wortgruppe,
+            Satz, Abschnitt, Kapitel."""@de ;
+    skos:prefLabel "Segment"@de ;
+    skos:topConceptOf <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K248> a skos:Concept ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dcterms:created "2026-09-19T20:11:44.436223+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:11:44.608095+00:00"^^xsd:dateTime ;
+    skos:broader <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K233> ;
+    skos:editorialNote "aus der note zu Schreibwerkzeug"@de ;
+    skos:inScheme <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> ;
+    skos:narrower <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K237>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K238>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K239>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K240>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K241>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K242>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K243> ;
+    skos:prefLabel "Werkzeug des handschriftlichen Schreibens"@de .
+
+<http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/> a skos:ConceptScheme ;
+    rdfs:label "Textgenetisches Glossar"@de ;
+    dc:contributor "Ingo Börner",
+        "Isabella Schwentner" ;
+    dc:language "German" ;
+    dc:publisher "ACDH – Austrian Centre for Digital Humanities" ;
+    dc:source """Almuth Grésillon: Literarische Handschriften. Einführung in die\r
+            'critique génétique'. Aus dem Französischen übersetzt von Frauke Rother und Wolfgang\r
+            Günther, redaktionell überarbeitet von Almuth Grésillon. Bern u.a.: Peter Lang 1999, S.\r
+            293–300."""@de ;
+    dc:subject "Editionswissenschaft",
+        "critique génétique" ;
+    dc:title "Textgenetisches Glossar"@de ;
+    dcterms:created "2026-09-19T20:11:40.047821+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-19T20:14:42.438120+00:00"^^xsd:dateTime ;
+    skos:hasTopConcept <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K003>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K004>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K005>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K006>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K007>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K008>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K010>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K011>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K012>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K013>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K014>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K015>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K016>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K017>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K022>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K025>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K030>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K031>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K032>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K035>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K036>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K038>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K040>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K041>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K042>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K043>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K045>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K046>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K048>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K049>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K050>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K051>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K052>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K054>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K057>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K059>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K063>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K064>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K065>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K067>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K068>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K070>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K072>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K075>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K076>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K077>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K078>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K080>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K081>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K082>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K085>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K088>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K090>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K091>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K094>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K095>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K096>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K097>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K098>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K099>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K100>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K102>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K104>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K105>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K108>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K109>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K111>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K115>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K116>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K117>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K118>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K119>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K120>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K121>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K122>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K123>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K124>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K125>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K126>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K130>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K136>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K137>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K140>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K141>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K142>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K143>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K144>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K145>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K146>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K147>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K148>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K149>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K152>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K153>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K154>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K155>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K158>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K159>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K160>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K161>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K163>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K165>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K168>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K169>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K170>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K171>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K172>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K173>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K174>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K176>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K185>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K188>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K191>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K192>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K193>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K194>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K196>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K198>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K199>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K201>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K202>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K204>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K206>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K207>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K208>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K212>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K214>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K217>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K218>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K219>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K223>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K225>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K228>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K230>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K233>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K234>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K235>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K244>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K245>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K246>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K249>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K250>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K257>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K259>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K260>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K266>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K267>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K268>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K270>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K272>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K274>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K278>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K280>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K281>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K282>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K286>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K293>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K294>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K295>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K296>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K297>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K298>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K302>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K304>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K305>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K307>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K308>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K314>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K316>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K318>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K323>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K325>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K329>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K330>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K331>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K332>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K333>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K334>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K335>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K336>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K337>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K340>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K342>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K347>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K354>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K356>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K357>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K358>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K359>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K361>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K362>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K366>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K369>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K370>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K377>,
+        <http://vocabs.acdh.oeaw.ac.at/tgg/v1.0/K379> .
+
