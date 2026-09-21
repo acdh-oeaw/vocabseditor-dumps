@@ -1,0 +1,35 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://vocabs.acdh.oeaw.ac.at/mein-concept/collection380> a skos:Collection ;
+    dcterms:created "2026-09-21T21:15:29.533222+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-21T21:15:29.586772+00:00"^^xsd:dateTime ;
+    skos:member <https://vocabs.acdh.oeaw.ac.at/mein-concept/concept27514> ;
+    skos:prefLabel "Material"@en .
+
+<https://vocabs.acdh.oeaw.ac.at/mein-concept/concept27513> a skos:Concept ;
+    dcterms:created "2026-09-21T21:13:49.231866+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-21T21:13:49.549650+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/mein-concept> ;
+    skos:narrowMatch <https://d-nb.info/gnd/10331529-9> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/mein-concept/concept27514> ;
+    skos:prefLabel "1"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/mein-concept> .
+
+<https://vocabs.acdh.oeaw.ac.at/mein-concept/concept27514> a skos:Concept ;
+    dcterms:created "2026-09-21T21:14:40.717258+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-21T21:15:46.828362+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/mein-concept/concept27513> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/mein-concept> ;
+    skos:prefLabel "2"@en .
+
+<https://vocabs.acdh.oeaw.ac.at/mein-concept> a skos:ConceptScheme ;
+    rdfs:label "Mein Concept"@en ;
+    dc:title "Mein Concept"@en ;
+    dcterms:created "2026-09-21T21:12:11.544096+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-21T21:12:14.909372+00:00"^^xsd:dateTime ;
+    skos:hasTopConcept <https://vocabs.acdh.oeaw.ac.at/mein-concept/concept27513> .
+
