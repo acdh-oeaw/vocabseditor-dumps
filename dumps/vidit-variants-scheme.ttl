@@ -1,0 +1,46 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/vidit/variants/collection379> a skos:Collection ;
+    dcterms:created "2026-09-21T08:41:59.483105+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-21T08:41:59.556437+00:00"^^xsd:dateTime ;
+    skos:member <https://w3id.org/vidit/variants/concept27509>,
+        <https://w3id.org/vidit/variants/concept27512> ;
+    skos:prefLabel "Differentiated by Actor"@en .
+
+<https://w3id.org/vidit/variants/concept27509> a skos:Concept ;
+    dcterms:created "2026-09-20T12:41:20.287719+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-21T08:42:22.686576+00:00"^^xsd:dateTime ;
+    skos:broader <https://w3id.org/vidit/variants/concept27508> ;
+    skos:inScheme <https://w3id.org/vidit/variants> ;
+    skos:note "A variant caused by / authorized by the author of the text." ;
+    skos:prefLabel "Authorial Variant"@en .
+
+<https://w3id.org/vidit/variants/concept27512> a skos:Concept ;
+    dcterms:created "2026-09-21T08:40:30.151898+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-21T08:42:46.640699+00:00"^^xsd:dateTime ;
+    skos:broader <https://w3id.org/vidit/variants/concept27508> ;
+    skos:inScheme <https://w3id.org/vidit/variants> ;
+    skos:prefLabel "Non-Authorial Variant"@en .
+
+<https://w3id.org/vidit/variants/concept27508> a skos:Concept ;
+    dcterms:created "2026-09-20T12:38:38.755666+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-20T12:38:38.964800+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://w3id.org/vidit/variants> ;
+    skos:narrower <https://w3id.org/vidit/variants/concept27509>,
+        <https://w3id.org/vidit/variants/concept27512> ;
+    skos:note "A segment of text that in some way differs from another segment of text it corresponds to. Correspondence is based on occupying the same position within the text across different versions, stages or levels of the text." ;
+    skos:prefLabel "Variant"@en ;
+    skos:topConceptOf <https://w3id.org/vidit/variants> .
+
+<https://w3id.org/vidit/variants> a skos:ConceptScheme ;
+    rdfs:label "VIDIT Variants Scheme"@en ;
+    dc:description "A concept scheme providing hierarchically structured types of variants"@en ;
+    dc:title "VIDIT Variants Scheme"@en ;
+    dcterms:created "2026-09-20T12:34:31.207630+00:00"^^xsd:dateTime ;
+    dcterms:modified "2026-09-20T12:34:31.260483+00:00"^^xsd:dateTime ;
+    skos:hasTopConcept <https://w3id.org/vidit/variants/concept27508> .
+
